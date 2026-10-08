@@ -207470,7 +207470,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sourdine des alarmes de Trio"
+            "value" : "Report des alarmes de Trio"
           }
         },
         "he" : {
@@ -277412,7 +277412,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mettre toutes les alarmes en sourdine"
+            "value" : "Reporter toutes les alarmes"
           }
         },
         "he" : {
@@ -277679,7 +277679,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reportée jusqu'à %@"
+            "value" : "Reportées jusqu'à %@"
           }
         },
         "he" : {
