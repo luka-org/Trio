@@ -85,7 +85,7 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Trio"
           }
         },
@@ -223,7 +223,7 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Trio"
           }
         },
@@ -361,8 +361,8 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "NFC is used to scan Libre sensors."
+            "state" : "translated",
+            "value" : "O NFC é usado para ler sensores Libre."
           }
         },
         "ro" : {
@@ -417,7 +417,7 @@
     },
     "NSAlarmKitUsageDescription" : {
       "comment" : "Privacy - Alarm Kit Usage Description",
-      "extractionState" : "stale",
+      "extractionState" : "extracted_with_value",
       "localizations" : {
         "bg" : {
           "stringUnit" : {
@@ -427,8 +427,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio používá alarmy, aby vás naléhavá upozornění na glykémii a inzulinovou pumpu zastihla i při ztlumeném telefonu nebo zapnutém režimu Soustředění."
           }
         },
         "da" : {
@@ -439,8 +439,8 @@
         },
         "de" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio nutzt Alarme, damit dich dringende Glukose- und Pumpen-Warnmeldungen auch dann erreichen, wenn dein Telefon stummgeschaltet ist oder ein Fokus-Modus aktiv ist."
           }
         },
         "en" : {
@@ -457,8 +457,8 @@
         },
         "fr" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio utilise des alarmes afin que les alertes urgentes de glucose et de pompe puissent vous parvenir même lorsque votre téléphone est en mode Silence ou qu'un mode Concentration est activé."
           }
         },
         "he" : {
@@ -475,8 +475,8 @@
         },
         "ko" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio는 휴대폰 소리가 꺼진 상태나 '집중 모드' 사용 중에도 긴급한 혈당 및 펌프 경고가 사용자에게 전달되도록 알림 기능을 사용합니다."
           }
         },
         "nb-NO" : {
@@ -487,20 +487,20 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio maakt gebruik van alarmen, zodat je dringende glucose- en pompwaarschuwingen kunt ontvangen zelfs als je telefoon wordt uitgezet of een Focus is ingeschakeld."
           }
         },
         "pl" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio wykorzystuje alarmy, dzięki którym pilne powiadomienia dotyczące poziomu glikemii oraz alerty z pompy dotrą do Ciebie nawet wtedy, gdy telefon jest wyciszony lub włączony jest tryb skupienia."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "O Trio usa alarmes para que alertas urgentes de glicose e da bomba cheguem até você mesmo quando o telefone estiver no silencioso ou com um modo Foco ativado."
           }
         },
         "ro" : {
@@ -535,20 +535,20 @@
         },
         "vi" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio sử dụng báo thức để các cảnh báo khẩn cấp về đường huyết và bơm có thể đến được với bạn ngay cả khi điện thoại đang ở chế độ im lặng hoặc đang bật Chế độ Tập trung."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio 使用独立告警机制，即使手机静音或者开启专注模式，紧急血糖告警与泵体告警依然能够送达你。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio uses alarms so urgent glucose and pump alerts can reach you even when your phone is silenced or a Focus is on."
+            "state" : "translated",
+            "value" : "Trio 使用警報，讓緊急血糖與幫浦警示即使在你的手機為靜音或啟用 Focus 時，也能傳達給你。"
           }
         }
       }
@@ -596,7 +596,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le Bluetooth est utilisé pour communiquer avec les pompes à insuline et les Capteurs de Glucose en Continu (CGM)"
+            "value" : "Le Bluetooth est utilisé pour communiquer avec les pompes à insuline et les capteurs de glucose en continu (CGM)"
           }
         },
         "he" : {
@@ -637,8 +637,8 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices"
+            "state" : "translated",
+            "value" : "O Bluetooth é usado para se comunicar com a bomba de insulina e dispositivos de monitoramento contínuo de glicose"
           }
         },
         "ro" : {
@@ -734,7 +734,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le Bluetooth est utilisé pour communiquer avec les pompes à insuline et les Capteurs de Glucose en Continu (CGM)"
+            "value" : "Le Bluetooth est utilisé pour communiquer avec les pompes à insuline et les capteurs de glucose en continu (CGM)"
           }
         },
         "he" : {
@@ -775,8 +775,8 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bluetooth is used to communicate with insulin pump and continuous glucose monitor devices"
+            "state" : "translated",
+            "value" : "O Bluetooth é usado para se comunicar com a bomba de insulina e dispositivos de monitoramento contínuo de glicose"
           }
         },
         "ro" : {
@@ -872,7 +872,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pour créer des événements avec les mesures de glucose, afin qu'ils puissent être consultés sur Apple Watch et CarPlay"
+            "value" : "Pour créer des événements avec les valeurs de glucose, afin qu'ils puissent être consultés sur Apple Watch et CarPlay"
           }
         },
         "he" : {
@@ -1051,8 +1051,8 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calendar is used to create new glucose events."
+            "state" : "translated",
+            "value" : "O Calendário é usado para criar novos eventos de glicose."
           }
         },
         "ro" : {
@@ -1147,7 +1147,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autorise Trio à accéder à vos contacts pour les mises à jour en direct de la complication de contact sur votre Apple Watch via la fonctionnalité « Contact Trick »."
+            "value" : "Autorise Trio à accéder à vos contacts pour les mises à jour en direct de la complication de contact sur votre Apple Watch via la fonctionnalité « Astuce de contact »."
           }
         },
         "he" : {
@@ -1188,8 +1188,8 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Allows Trio to access your contacts for live updates to your Apple Watch contact complication using the 'Contact Trick' feature."
+            "state" : "translated",
+            "value" : "Permite que o Trio acesse seus contatos para atualizar em tempo real a complicação de contato no Apple Watch usando o recurso “Contact Trick”."
           }
         },
         "ro" : {
@@ -1326,8 +1326,8 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For authorized access to bolus"
+            "state" : "translated",
+            "value" : "Para acesso autorizado ao bolus"
           }
         },
         "ro" : {
