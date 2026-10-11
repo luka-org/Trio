@@ -1887,7 +1887,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : " %1$@ · GMI %2$@"
           }
         },
@@ -5065,7 +5065,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "– –"
           }
         },
@@ -5877,7 +5877,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "·"
           }
         },
@@ -8651,8 +8651,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ (mode is using %2$@)"
+            "state" : "translated",
+            "value" : "%1$@ (režim používá %2$@)"
           }
         },
         "da" : {
@@ -9600,8 +9600,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ carbs"
+            "state" : "translated",
+            "value" : "%@ sacharidů"
           }
         },
         "da" : {
@@ -9731,8 +9731,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ Device Alerts"
+            "state" : "translated",
+            "value" : "%@ Upozornění zařízení"
           }
         },
         "da" : {
@@ -9862,8 +9862,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ fat"
+            "state" : "translated",
+            "value" : "%@ tuku"
           }
         },
         "da" : {
@@ -10123,8 +10123,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ insulin"
+            "state" : "translated",
+            "value" : "%@ inzulínu"
           }
         },
         "da" : {
@@ -10253,8 +10253,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ is on. %2$@"
+            "state" : "translated",
+            "value" : "%1$@ je zapnuto. %2$@"
           }
         },
         "da" : {
@@ -10650,8 +10650,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ protein"
+            "state" : "translated",
+            "value" : "%@ bílkovin"
           }
         },
         "da" : {
@@ -11182,7 +11182,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@. %2$@"
           }
         },
@@ -11717,8 +11717,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$d days %2$d hours"
+            "state" : "translated",
+            "value" : "Počet dní: %1$d, počet hodin: %2$d"
           }
         },
         "da" : {
@@ -11848,8 +11848,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$d hours %2$d minutes"
+            "state" : "translated",
+            "value" : "Počet hodin: %1$d, počet minut: %2$d"
           }
         },
         "da" : {
@@ -11979,8 +11979,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%d calibration points"
+            "state" : "translated",
+            "value" : "%d kalibračních bodů"
           }
         },
         "da" : {
@@ -12110,8 +12110,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%d hours"
+            "state" : "translated",
+            "value" : "%d hodin"
           }
         },
         "da" : {
@@ -12241,8 +12241,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%d minutes"
+            "state" : "translated",
+            "value" : "%d minut"
           }
         },
         "da" : {
@@ -12372,8 +12372,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%d minutes ago"
+            "state" : "translated",
+            "value" : "před %d minutami"
           }
         },
         "da" : {
@@ -12503,8 +12503,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%dh ago"
+            "state" : "translated",
+            "value" : "před %dh"
           }
         },
         "da" : {
@@ -12634,8 +12634,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%dm ago"
+            "state" : "translated",
+            "value" : "před%dm"
           }
         },
         "da" : {
@@ -12765,8 +12765,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%ds ago"
+            "state" : "translated",
+            "value" : "před%ds"
           }
         },
         "da" : {
@@ -13545,8 +13545,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%lld m"
+            "state" : "translated",
+            "value" : "%lld min"
           }
         },
         "da" : {
@@ -14195,7 +14195,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "• %@"
           }
         },
@@ -15891,8 +15891,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "• Color Mode: Color keeps the glucose number's dynamic color; Monochrome shows it in white. The ring and arrow stay colored either way."
+            "state" : "translated",
+            "value" : "Barevný režim: Barva zachovává dynamické zbarvení hodnoty glykémie. Černobílý režim ji zobrazuje bíle. Kroužek a šipka zůstávají barevné v obou režimech."
           }
         },
         "da" : {
@@ -17321,8 +17321,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "• Glucose Bobble: Mirrors the glucose HUD, colored by glucose value with a trend arrow."
+            "state" : "translated",
+            "value" : "• Bublina glykémie: Zobrazuje stejnou hodnotu glykémie jako hlavní ukazatel, barevně podle aktuální glykémie a se šipkou trendu."
           }
         },
         "da" : {
@@ -19921,8 +19921,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "• Show Delta: Toggle the glucose delta beneath the glucose number."
+            "state" : "translated",
+            "value" : "• Zobrazit změnu glykémie: Zapíná nebo vypíná zobrazení změny glykémie pod aktuální hodnotou."
           }
         },
         "da" : {
@@ -20051,8 +20051,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "• Show Minutes Since Reading: Toggle the reading age beneath the glucose number."
+            "state" : "translated",
+            "value" : "• Zobrazit čas od posledního měření: Zapíná nebo vypíná zobrazení počtu minut od posledního měření pod hodnotou glykémi."
           }
         },
         "da" : {
@@ -22286,7 +22286,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "💉: IOB"
+            "value" : "💉: IOB (Insuline active)"
           }
         },
         "he" : {
@@ -25421,8 +25421,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "15 minutes earlier"
+            "state" : "translated",
+            "value" : "o 15 minut dříve"
           }
         },
         "da" : {
@@ -25551,8 +25551,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "15 minutes later"
+            "state" : "translated",
+            "value" : "o 15 minut později"
           }
         },
         "da" : {
@@ -29077,8 +29077,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "About Quick-Pick Treatments"
+            "state" : "translated",
+            "value" : "O rychlém výběru léčebných záznamů"
           }
         },
         "da" : {
@@ -29344,8 +29344,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "About the recommendation"
+            "state" : "translated",
+            "value" : "O doporučení"
           }
         },
         "da" : {
@@ -29606,8 +29606,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "above"
+            "state" : "translated",
+            "value" : "nad"
           }
         },
         "da" : {
@@ -29737,8 +29737,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "above range"
+            "state" : "translated",
+            "value" : "Nad rozsahem"
           }
         },
         "da" : {
@@ -30390,8 +30390,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "active"
+            "state" : "translated",
+            "value" : "aktivní"
           }
         },
         "da" : {
@@ -30521,8 +30521,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Active"
+            "state" : "translated",
+            "value" : "Aktivní"
           }
         },
         "da" : {
@@ -30652,8 +30652,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Active During"
+            "state" : "translated",
+            "value" : "Aktivní během"
           }
         },
         "da" : {
@@ -31084,7 +31084,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter %@ sans injection de bolus"
+            "value" : "Ajouter %@ sans administrer de bolus"
           }
         },
         "he" : {
@@ -31581,8 +31581,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add Alarm"
+            "state" : "translated",
+            "value" : "Přidat alarm"
           }
         },
         "da" : {
@@ -33022,8 +33022,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add device alarm"
+            "state" : "translated",
+            "value" : "Přidat upozornění zařízení"
           }
         },
         "da" : {
@@ -33679,8 +33679,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add glucose alarm"
+            "state" : "translated",
+            "value" : "Přidat upozornění na glykémii"
           }
         },
         "da" : {
@@ -33842,7 +33842,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter de l'insuline sans faire de bolus"
+            "value" : "Ajouter de l'insuline sans administrer de bolus"
           }
         },
         "he" : {
@@ -34896,8 +34896,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add one serving"
+            "state" : "translated",
+            "value" : "Přidat jednu porci"
           }
         },
         "da" : {
@@ -36075,8 +36075,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add Treatment"
+            "state" : "translated",
+            "value" : "Přidat záznam o léčbě"
           }
         },
         "da" : {
@@ -36205,8 +36205,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add Variant"
+            "state" : "translated",
+            "value" : "Přidat variantu"
           }
         },
         "da" : {
@@ -36466,8 +36466,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add widget"
+            "state" : "translated",
+            "value" : "Přidat widget"
           }
         },
         "da" : {
@@ -39787,7 +39787,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Alarm"
           }
         },
@@ -40054,8 +40054,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alarms cannot alert you. Tap to fix."
+            "state" : "translated",
+            "value" : "Alarmy vás nemohou upozorňovat. Klepnutím problém vyřešíte."
           }
         },
         "da" : {
@@ -40185,8 +40185,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alert Identifier"
+            "state" : "translated",
+            "value" : "Identifikátor upozornění"
           }
         },
         "da" : {
@@ -40316,8 +40316,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Alert Sound"
+            "state" : "translated",
+            "value" : "Zvuk upozornění"
           }
         },
         "da" : {
@@ -40577,8 +40577,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Algorithm Error"
+            "state" : "translated",
+            "value" : "Chyba algoritmu"
           }
         },
         "da" : {
@@ -41772,8 +41772,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "All glucose, insulin, and carb data. All therapy settings (basal, ISF, carb ratio, glucose targets). Your Nightscout URL and API token. Your Tidepool credentials. Remote-command secrets and APNS keys. Location data. Logs are never sent automatically; sharing them remains a user-initiated flow."
+            "state" : "translated",
+            "value" : "Veškeré údaje o glykémii, inzulínu a sacharidech. Veškerá nastavení léčby (bazál, faktor citlivosti na inzulín – ISF, sacharidový poměr a cílové hodnoty glykémie). Vaše URL adresa Nightscoutu a API token. Vaše přihlašovací údaje k Tidepoolu. Tajné klíče pro vzdálené příkazy a klíče APNS. Údaje o poloze. Protokoly se nikdy neodesílají automaticky; jejich sdílení musí vždy zahájit uživatel."
           }
         },
         "da" : {
@@ -45603,8 +45603,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Already set for Day & Night. Change the alarm time window to add a second alarm for the same type."
+            "state" : "translated",
+            "value" : "Již nastaveno pro den i noc. Chcete-li přidat druhé upozornění stejného typu, změňte časové období upozornění."
           }
         },
         "da" : {
@@ -48649,8 +48649,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Anonymous telemetry"
+            "state" : "translated",
+            "value" : "Anonymní telemetrie"
           }
         },
         "da" : {
@@ -48779,8 +48779,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Anonymous usage statistics include the app version and build, device and iOS version, which pump and CGM you have paired, and whether Nightscout, Tidepool, and Apple Health are configured (yes/no — no URLs or credentials). They are sent to a self-hosted Trio telemetry endpoint."
+            "state" : "translated",
+            "value" : "Anonymní statistiky používání zahrnují verzi a sestavení aplikace, zařízení a verzi iOS, typ připojené pumpy a CGM a informaci o tom, zda jsou nastaveny Nightscout, Tidepool a Apple Zdraví (ano/ne – bez URL adres a přihlašovacích údajů). Tyto informace se odesílají na telemetrický server provozovaný projektem Trio."
           }
         },
         "da" : {
@@ -49040,8 +49040,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "App diagnostic insights — based on crash reports only — help us enhance app stability, ensure safety for all users, and quickly identify and resolve critical issues."
+            "state" : "translated",
+            "value" : "Diagnostické informace aplikace, založené pouze na hlášeních o pádech, nám pomáhají zlepšovat stabilitu aplikace, zajišťovat bezpečnost všech uživatelů a rychle identifikovat a řešit kritické problémy."
           }
         },
         "da" : {
@@ -49691,8 +49691,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "App version, build date, branch, and commit SHA; whether this is a TestFlight build; an Apple-supplied per-vendor identifier (IDFV) and a per-install UUID; hardware identifier (e.g. iPhone15,2); platform and iOS version; the paired pump model (when a pump is configured); the paired CGM type and model (when a CGM is configured); whether Nightscout, Tidepool, and Apple Health are configured (yes/no — no URLs, tokens, or credentials); and a few preference flags (units, closed-loop on/off, Live Activity, calendar integration). A rolling cold-launch count is included. The full JSON is visible under App Diagnostics → What's sent."
+            "state" : "translated",
+            "value" : "Verze aplikace, datum sestavení, větev a SHA commitu; informace, zda jde o sestavení z TestFlightu; identifikátor dodavatele (IDFV) poskytovaný společností Apple a UUID jednotlivé instalace; identifikátor hardwaru (např. iPhone15,2); platforma a verze iOS; model spárované pumpy (pokud je pumpa nastavena); typ a model spárovaného CGM (pokud je CGM nastaven); informace, zda jsou nastaveny Nightscout, Tidepool a Apple Zdraví (ano/ne – bez URL adres, tokenů a přihlašovacích údajů); a několik nastavení aplikace (jednotky, zapnutí/vypnutí uzavřené smyčky, Živá aktivita, integrace kalendáře). Součástí je také průběžný počet spuštění aplikace z ukončeného stavu. Kompletní údaje ve formátu JSON najdete v části Diagnostika aplikace → Co se odesílá."
           }
         },
         "da" : {
@@ -50601,8 +50601,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Applies To (Cannot be changed)"
+            "state" : "translated",
+            "value" : "Platí pro (nelze změnit)"
           }
         },
         "da" : {
@@ -51792,8 +51792,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "at least"
+            "state" : "translated",
+            "value" : "alespoň"
           }
         },
         "da" : {
@@ -53490,8 +53490,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Automated dosing is limited. Tap to review."
+            "state" : "translated",
+            "value" : "Automatické dávkování inzulínu je omezeno. Klepnutím zobrazíte podrobnosti."
           }
         },
         "da" : {
@@ -53515,7 +53515,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le dosage automatique est limité. Appuyez pour vérifier."
+            "value" : "Le dosage automatique est limité. Touchez pour vérifier."
           }
         },
         "he" : {
@@ -56386,8 +56386,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Available"
+            "state" : "translated",
+            "value" : "Dostupné"
           }
         },
         "da" : {
@@ -57168,8 +57168,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Avg. Glucose:"
+            "state" : "translated",
+            "value" : "Prům. glykemie:"
           }
         },
         "da" : {
@@ -58763,8 +58763,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Background"
+            "state" : "translated",
+            "value" : "Pozedí"
           }
         },
         "da" : {
@@ -58894,8 +58894,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal"
+            "state" : "translated",
+            "value" : "Bazál"
           }
         },
         "da" : {
@@ -59428,8 +59428,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal Profile Mismatch"
+            "state" : "translated",
+            "value" : "Nesoulad bazálního profilu"
           }
         },
         "da" : {
@@ -59948,8 +59948,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal rate profile chart, 24 hours"
+            "state" : "translated",
+            "value" : "Graf bazálního profilu za 24 hodin"
           }
         },
         "da" : {
@@ -60209,8 +60209,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal Testing"
+            "state" : "translated",
+            "value" : "Testování bazálu"
           }
         },
         "da" : {
@@ -60339,8 +60339,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Basal Testing is on. Low temp targets will not lower sensitivity."
+            "state" : "translated",
+            "value" : "Testování bazálu je zapnuto. Nízké dočasné cílové hodnoty nesníží citlivost na inzulín."
           }
         },
         "da" : {
@@ -61524,8 +61524,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Behavior"
+            "state" : "translated",
+            "value" : "Chování"
           }
         },
         "da" : {
@@ -61655,8 +61655,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "below"
+            "state" : "translated",
+            "value" : "pod"
           }
         },
         "da" : {
@@ -61785,8 +61785,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Below is the exact JSON object Trio would send right now. No glucose, insulin, carbs, credentials, or settings values are included."
+            "state" : "translated",
+            "value" : "Níže je uveden přesný objekt JSON, který by Trio právě teď odeslalo. Neobsahuje žádné hodnoty glykémie, inzulínu, sacharidů, přihlašovací údaje ani hodnoty nastavení."
           }
         },
         "da" : {
@@ -61916,8 +61916,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "below range"
+            "state" : "translated",
+            "value" : "Pod cílovým rozmezím\nBlack"
           }
         },
         "da" : {
@@ -62696,8 +62696,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Black"
+            "state" : "translated",
+            "value" : "Černá"
           }
         },
         "da" : {
@@ -62826,8 +62826,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Blood Glucose Reminder"
+            "state" : "translated",
+            "value" : "Připomenutí měření glykémie"
           }
         },
         "da" : {
@@ -63095,8 +63095,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bloom"
+            "state" : "translated",
+            "value" : "Rozkvět"
           }
         },
         "da" : {
@@ -63226,7 +63226,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Bloop"
           }
         },
@@ -63779,7 +63779,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Une connexion Bluetooth est requise"
+            "value" : "Bluetooth requis"
           }
         },
         "he" : {
@@ -64445,7 +64445,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quantité de bolus en U (unité)"
+            "value" : "Dose de bolus en U"
           }
         },
         "he" : {
@@ -64551,8 +64551,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus blocked: a %1$@ U bolus would exceed max IOB (%2$@ U). Current IOB: %3$@ U."
+            "state" : "translated",
+            "value" : "Bolus zablokován: bolus o velikosti %1$@ j by překročil maximální IOB (%2$@ j). Aktuální IOB: %3$@ j."
           }
         },
         "da" : {
@@ -64688,8 +64688,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus blocked: a significant bolus was delivered within the last %lld minutes."
+            "state" : "translated",
+            "value" : "Bolus zablokován: během posledních %lld minut byl podán významný bolus."
           }
         },
         "da" : {
@@ -64713,7 +64713,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bolus bloqué : un bolus significatif a été délivré dans les dernières %lld minutes."
+            "value" : "Bolus bloqué : un bolus significatif a été délivré au cours des %lld dernières minutes."
           }
         },
         "he" : {
@@ -64819,8 +64819,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus blocked: current IOB is not available."
+            "state" : "translated",
+            "value" : "Bolus zablokován: aktuální hodnota IOB není dostupná."
           }
         },
         "da" : {
@@ -65210,8 +65210,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus cancellation failed"
+            "state" : "translated",
+            "value" : "Zrušení bolusu se nezdařilo"
           }
         },
         "da" : {
@@ -66391,8 +66391,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus insulin bar chart"
+            "state" : "translated",
+            "value" : "Sloupcový graf bolusového inzulínu"
           }
         },
         "da" : {
@@ -66782,8 +66782,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bolus Not Enacted"
+            "state" : "translated",
+            "value" : "Bolus nebyl podán"
           }
         },
         "da" : {
@@ -67742,7 +67742,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'administration du bolus via Raccourcis est désactivée dans les paramètres de Trio."
+            "value" : "L'administration de bolus via Raccourcis est désactivée dans les paramètres de Trio."
           }
         },
         "he" : {
@@ -68376,8 +68376,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Bright Alarm"
+            "state" : "translated",
+            "value" : "Výrazné upozornění"
           }
         },
         "da" : {
@@ -68669,7 +68669,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calcule un nouveau facteur de sensibilité à l'insuline (ISF) à chaque cycle de bouclage. Le nouvel ISF sera déterminé en fonction de votre glucose actuel, de la Dose Totale Quotidienne d'insuline (TDD, soit la totalité de l'insuline administrée au cours des 24 dernières heures) et d’un facteur d’ajustement individuel (il est recommandé de commencer à 0,5 si la fonction sigmoïde est activée, et à 0,8 sinon).\n\nTous les ajustements dynamiques de l'ISF et du ratio insuline/glucides (CR) seront limités par les valeurs « Autosens max. » et « Autosens min. »."
+            "value" : "Calcule un nouveau facteur de sensibilité à l'insuline (ISF) à chaque cycle de bouclage. Le nouvel ISF sera déterminé en fonction de votre glucose actuel, de la Dose Totale Quotidienne d'insuline (TDD, soit la totalité de l'insuline administrée au cours des 24 dernières heures) et d’un facteur d’ajustement individuel (il est recommandé de commencer à 0,5 si la fonction sigmoïde est activée, et à 0,8 sinon).\n\nTous les ajustements dynamiques de l'ISF et du ratio Insuline/Glucides (CR) seront limités par les valeurs « Autosens max. » et « Autosens min. »."
           }
         },
         "he" : {
@@ -68801,7 +68801,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calcule un nouveau facteur de sensibilité à l'insuline (ISF) à chaque cycle de bouclage. Le nouvel ISF sera déterminé en fonction de votre glucose actuel, de la Dose Totale Quotidienne d'insuline (TDD, administrée au cours des 24 dernières heures ou selon une moyenne pondérée), et d’un facteur d’ajustement (valeur par défaut : 1).\n\nLes ajustements dynamiques de l'ISF et du ratio insuline/glucides (CR) seront limités par les valeurs « Autosens max. » et « Autosens min. ».\n\nLe ratio dynamique remplace autosens.ratio :\nNouvel ISF = ISF statique / ratio dynamique,\nratio dynamique = profile.sens * adjustmentFactor * tdd * Math.log(BG/insulinFactor+1) / 1800,\ninsulinFactor = 120 - InsulinPeakTimeInMinutes"
+            "value" : "Calcule un nouveau facteur de sensibilité à l'insuline (ISF) à chaque cycle de bouclage. Le nouvel ISF sera déterminé en fonction de votre glucose actuel, de la Dose Totale Quotidienne d'insuline (TDD, administrée au cours des 24 dernières heures ou selon une moyenne pondérée), et d’un facteur d’ajustement (valeur par défaut : 1).\n\nLes ajustements dynamiques de l'ISF et du ratio Insuline/Glucides (CR) seront limités par les valeurs « Autosens max. » et « Autosens min. ».\n\nLe ratio dynamique remplace autosens.ratio :\nNouvel ISF = ISF statique / ratio dynamique,\nratio dynamique = profile.sens * adjustmentFactor * tdd * Math.log(BG/insulinFactor+1) / 1800,\ninsulinFactor = 120 - InsulinPeakTimeInMinutes"
           }
         },
         "he" : {
@@ -69839,8 +69839,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration chart"
+            "state" : "translated",
+            "value" : "Graf kalibrací"
           }
         },
         "da" : {
@@ -69969,8 +69969,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Calibration unavailable"
+            "state" : "translated",
+            "value" : "Kalibrace není dostupná"
           }
         },
         "da" : {
@@ -72349,8 +72349,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Carb ratio profile chart, 24 hours"
+            "state" : "translated",
+            "value" : "Graf sacharidového poměru za 24 hodin"
           }
         },
         "da" : {
@@ -73402,8 +73402,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Carbs Not Logged"
+            "state" : "translated",
+            "value" : "Sacharidy nebyly zaznamenány"
           }
         },
         "da" : {
@@ -73532,8 +73532,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Carbs on board"
+            "state" : "translated",
+            "value" : "Aktivní sacharidy"
           }
         },
         "da" : {
@@ -73663,8 +73663,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Carbs on Board (COB)"
+            "state" : "translated",
+            "value" : "Aktivní sacharidy (COB)"
           }
         },
         "da" : {
@@ -74198,8 +74198,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Carbs Required"
+            "state" : "translated",
+            "value" : "Vyžadovány sacharidy"
           }
         },
         "da" : {
@@ -74589,8 +74589,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Carbs were logged, but the bolus could not be authenticated and was not enacted."
+            "state" : "translated",
+            "value" : "Sacharidy byly zaznamenány, ale bolus se nepodařilo ověřit, a proto nebyl podán."
           }
         },
         "da" : {
@@ -74720,8 +74720,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Carbs were logged. %@"
+            "state" : "translated",
+            "value" : "Sacharidy byly zaznamenány. %@"
           }
         },
         "da" : {
@@ -76176,7 +76176,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le capteur de glucose en continu (CGM) n'est pas utilisé comme signal de vie (heartbeat)."
+            "value" : "Le CGM n'est pas utilisé comme signal de vie (heartbeat)."
           }
         },
         "he" : {
@@ -76281,8 +76281,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM noise level too high: %lld."
+            "state" : "translated",
+            "value" : "Příliš vysoká úroveň šumu CGM: %lld"
           }
         },
         "da" : {
@@ -76412,8 +76412,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Reconnect Required"
+            "state" : "translated",
+            "value" : "Je nutné znovu připojit CGM"
           }
         },
         "da" : {
@@ -76543,8 +76543,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Sensor Expired"
+            "state" : "translated",
+            "value" : "Platnost senzoru CGM vypršela"
           }
         },
         "da" : {
@@ -76674,8 +76674,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "CGM Sensor Expires Soon"
+            "state" : "translated",
+            "value" : "Platnost senzoru CGM brzy vyprší"
           }
         },
         "da" : {
@@ -77890,8 +77890,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chapter %1$d of %2$d, %3$@"
+            "state" : "translated",
+            "value" : "Kapitola %1$d z %2$d, %3$@"
           }
         },
         "da" : {
@@ -78150,8 +78150,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chart Gestures"
+            "state" : "translated",
+            "value" : "Gesta v grafu"
           }
         },
         "da" : {
@@ -78281,8 +78281,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chart legend"
+            "state" : "translated",
+            "value" : "Legenda grafu"
           }
         },
         "da" : {
@@ -79069,8 +79069,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Check pump history before repeating."
+            "state" : "translated",
+            "value" : "Před opakováním zkontroluj historii pumpy."
           }
         },
         "da" : {
@@ -79200,8 +79200,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Chime"
+            "state" : "translated",
+            "value" : "Zvonkohra"
           }
         },
         "da" : {
@@ -80501,8 +80501,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose Tone"
+            "state" : "translated",
+            "value" : "Vybrat zvuk"
           }
         },
         "da" : {
@@ -80891,8 +80891,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose what the statistics panel on the home screen displays."
+            "state" : "translated",
+            "value" : "Vyber, co se zobrazuje na panelu statistik na úvodní obrazovce."
           }
         },
         "da" : {
@@ -81021,8 +81021,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose what the statistics panel on the home screen shows by default. Tapping the panel always opens the full statistics view.\n\nTime in Range: today's time in range percentage with a glucose distribution bar.\n\nDistribution Bar Only: just the glucose distribution bar, without the percentage.\n\nToday's Averages: today's average glucose and GMI (Glucose Management Index).\n\nToday's Treatments: insulin delivered since midnight — no glucose statistics. Announced carbs (and fat and protein, if you log them) appear once logged that day.\n\nHide Statistics: shows no data at all, just a \"View Statistics\" shortcut."
+            "state" : "translated",
+            "value" : "Vyber, co se má ve výchozím nastavení zobrazovat na panelu statistik na úvodní obrazovce. Klepnutím na panel vždy otevřeš úplný přehled statistik.\n\nČas v cílovém rozmezí: dnešní procento času v cílovém rozmezí a pruh rozložení glykémie.\n\nPouze pruh rozložení: zobrazí se jen pruh rozložení glykémie bez procent.\n\nDnešní průměry: dnešní průměrná glykémie a GMI (ukazatel řízení glykémie).\n\nDnešní záznamy: inzulín podaný od půlnoci bez statistik glykémie. Zadané sacharidy (a také tuky a bílkoviny, pokud je eviduješ) se zobrazí po jejich zadání v daný den.\n\nSkrýt statistiky: místo údajů se zobrazí pouze zkratka „Zobrazit statistiky“. "
           }
         },
         "da" : {
@@ -81940,8 +81940,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clear Chimes"
+            "state" : "translated",
+            "value" : "Jasné zvonění"
           }
         },
         "da" : {
@@ -82070,8 +82070,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Clears the local App Attest key, registered flag, and forbidden flag. The next telemetry send will re-attest from scratch. Use only if telemetry is stuck."
+            "state" : "translated",
+            "value" : "Vymaže místní klíč App Attest a příznaky registrace a zákazu. Při příštím odeslání telemetrie proběhne nové ověření. Použijte pouze v případě, že se telemetrie zasekla."
           }
         },
         "da" : {
@@ -82095,7 +82095,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efface la clé locale atteste de l'application, le drapeau enregistré et le drapeau interdit. Le prochain envoi de télémétrie confirmera à nouveau à partir de zéro. Utiliser uniquement si la télémétrie est bloquée."
+            "value" : "Efface la clé App Attest locale, l'indicateur d'enregistrement et l'indicateur d'interdiction. Le prochain envoi de télémétrie refera une attestation complète. À n'utiliser que si la télémétrie est bloquée."
           }
         },
         "he" : {
@@ -82599,8 +82599,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Closes the value picker"
+            "state" : "translated",
+            "value" : "Zavře výběr hodnoty"
           }
         },
         "da" : {
@@ -83640,8 +83640,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "complete"
+            "state" : "translated",
+            "value" : "dokončeno"
           }
         },
         "da" : {
@@ -83771,8 +83771,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Complication"
+            "state" : "translated",
+            "value" : "Komplikace"
           }
         },
         "da" : {
@@ -87208,8 +87208,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "connected"
+            "state" : "translated",
+            "value" : "připojeno"
           }
         },
         "da" : {
@@ -88395,8 +88395,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Contact image preview"
+            "state" : "translated",
+            "value" : "Náhled obrázku kontaktu"
           }
         },
         "da" : {
@@ -89451,8 +89451,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Copies the recommended amount into the bolus field"
+            "state" : "translated",
+            "value" : "Zkopíruje doporučenou dávku do pole pro bolus"
           }
         },
         "da" : {
@@ -89581,8 +89581,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Copy JSON"
+            "state" : "translated",
+            "value" : "Kopírovat JSON"
           }
         },
         "da" : {
@@ -89841,8 +89841,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Copy version information"
+            "state" : "translated",
+            "value" : "Kopírovat informace o verzi"
           }
         },
         "da" : {
@@ -90102,8 +90102,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could Not Authenticate"
+            "state" : "translated",
+            "value" : "Ověření se nezdařilo"
           }
         },
         "da" : {
@@ -90232,8 +90232,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not calculate eventual glucose. Sensitivity: %1$@, Deviation: %2$@"
+            "state" : "translated",
+            "value" : "Nepodařilo se vypočítat předpokládanou glykémii. Citlivost: %1$@, odchylka: %2$@"
           }
         },
         "da" : {
@@ -90369,8 +90369,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Could not save the change."
+            "state" : "translated",
+            "value" : "Změnu se nepodařilo uložit."
           }
         },
         "da" : {
@@ -90761,8 +90761,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Crash reporting and anonymous usage telemetry are enabled by default. Use the diagnostics-sharing chooser above to opt out: pick \"Crash Reports Only\" to keep crash reporting but disable telemetry, or \"Disable Sharing\" to turn off both. Changes take effect immediately."
+            "state" : "translated",
+            "value" : "Hlášení pádů aplikace a anonymní telemetrie používání jsou ve výchozím nastavení zapnuté. Pokud je chcete vypnout, použijte výše uvedené nastavení sdílení diagnostických dat. Volba „Pouze hlášení pádů“ zachová hlášení pádů, ale vypne telemetrii. Volba „Zakázat sdílení“ vypne obojí. Změny se projeví okamžitě."
           }
         },
         "da" : {
@@ -90891,8 +90891,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Crash reports include the app's state on crash, device, iOS and general system info, and a stack trace. They are sent to a Google Firebase Crashlytics project maintained by the Trio team."
+            "state" : "translated",
+            "value" : "Hlášení o pádech obsahují stav aplikace při pádu, informace o zařízení, iOS a systému a výpis zásobníku volání. Odesílají se do projektu Google Firebase Crashlytics spravovaného týmem Trio."
           }
         },
         "da" : {
@@ -91021,8 +91021,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Crash Reports Only"
+            "state" : "translated",
+            "value" : "Pouze hlášení pádů"
           }
         },
         "da" : {
@@ -91289,8 +91289,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Critical"
+            "state" : "translated",
+            "value" : "Kritické"
           }
         },
         "da" : {
@@ -91420,8 +91420,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Crying"
+            "state" : "translated",
+            "value" : "Pláč"
           }
         },
         "da" : {
@@ -92468,8 +92468,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Current release"
+            "state" : "translated",
+            "value" : "Aktuální verze"
           }
         },
         "da" : {
@@ -94329,8 +94329,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Daily glucose distribution chart"
+            "state" : "translated",
+            "value" : "Graf denního rozložení glykémie"
           }
         },
         "da" : {
@@ -94459,8 +94459,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Daily glucose percentile chart"
+            "state" : "translated",
+            "value" : "Graf percentilů glykémie za den"
           }
         },
         "da" : {
@@ -95897,8 +95897,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Day & Night"
+            "state" : "translated",
+            "value" : "Den a Noc"
           }
         },
         "da" : {
@@ -96028,8 +96028,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Day & Night Windows"
+            "state" : "translated",
+            "value" : "Časová okna dne a noci"
           }
         },
         "da" : {
@@ -96158,8 +96158,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Day and Night Window"
+            "state" : "translated",
+            "value" : "Časové okno dne a noci"
           }
         },
         "da" : {
@@ -96289,8 +96289,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Day and Night windows are configured globally on the Alarms screen."
+            "state" : "translated",
+            "value" : "Časová okna dne a noci se nastavují společně na obrazovce Upozornění."
           }
         },
         "da" : {
@@ -96420,8 +96420,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Day only"
+            "state" : "translated",
+            "value" : "Pouze ve dne"
           }
         },
         "da" : {
@@ -96551,8 +96551,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Day Starts"
+            "state" : "translated",
+            "value" : "Začátek dne"
           }
         },
         "da" : {
@@ -97621,8 +97621,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Decides when each alarm's Day or Night setting applies."
+            "state" : "translated",
+            "value" : "Určuje, kdy se u jednotlivých upozornění použije nastavení pro den nebo noc."
           }
         },
         "da" : {
@@ -97752,8 +97752,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "deciliter"
+            "state" : "translated",
+            "value" : "decilitr"
           }
         },
         "da" : {
@@ -98554,8 +98554,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default notification banner. Suppressed by Silence & Focus Mode by default."
+            "state" : "translated",
+            "value" : "Výchozí oznamovací banner. Ve výchozím nastavení je potlačen režimy Ticho a Soustředění."
           }
         },
         "da" : {
@@ -101954,8 +101954,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Default: Day starts %1$@, Night starts %2$@."
+            "state" : "translated",
+            "value" : "Výchozí: Den začíná v %1$@, noc začíná v %2$@."
           }
         },
         "da" : {
@@ -105455,8 +105455,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete Alarm"
+            "state" : "translated",
+            "value" : "Smazat upozornění"
           }
         },
         "da" : {
@@ -106299,7 +106299,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Supprimez le \"CGMManager\" et recommencez de nouveau. Vos identifiants pour \"libreoopweb\" seront conservés"
+            "value" : "Supprimez le « CGMManager » et recommencez. Vos identifiants « libreoopweb » seront conservés"
           }
         },
         "he" : {
@@ -107477,8 +107477,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete Variant"
+            "state" : "translated",
+            "value" : "Smazat variantu"
           }
         },
         "da" : {
@@ -107875,8 +107875,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "delta"
+            "state" : "translated",
+            "value" : "změna"
           }
         },
         "da" : {
@@ -109061,8 +109061,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Determined at %@"
+            "state" : "translated",
+            "value" : "Určeno v %@"
           }
         },
         "da" : {
@@ -109460,8 +109460,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Alarms"
+            "state" : "translated",
+            "value" : "Upozornění zařízení"
           }
         },
         "da" : {
@@ -109721,8 +109721,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Expiration Reminder"
+            "state" : "translated",
+            "value" : "Připomenutí konce životnosti zařízení"
           }
         },
         "da" : {
@@ -109851,8 +109851,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Expired"
+            "state" : "translated",
+            "value" : "Životnost zařízení vypršela"
           }
         },
         "da" : {
@@ -109981,8 +109981,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Device Shutdown Imminent"
+            "state" : "translated",
+            "value" : "Blíží se vypnutí zařízení"
           }
         },
         "da" : {
@@ -110511,8 +110511,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Dings"
+            "state" : "translated",
+            "value" : "Cinkání"
           }
         },
         "da" : {
@@ -112227,8 +112227,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Dismiss keyboard"
+            "state" : "translated",
+            "value" : "Skrýt klávesnici"
           }
         },
         "da" : {
@@ -113166,8 +113166,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Display Glucose Forecasts"
+            "state" : "translated",
+            "value" : "Zobrazit předpovědi glykémie"
           }
         },
         "da" : {
@@ -113296,8 +113296,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Display Glucose Forecasts made by the Oref algorithm."
+            "state" : "translated",
+            "value" : "Zobrazit předpovědi glykémie vypočítané algoritmem Oref."
           }
         },
         "da" : {
@@ -115725,7 +115725,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Affiche l’icône de l’app Trio en Complication"
+            "value" : "Affiche l’icône de l’app Trio en complication"
           }
         },
         "he" : {
@@ -116091,8 +116091,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Distribution Bar Only"
+            "state" : "translated",
+            "value" : "Pouze sloupcový graf rozložení"
           }
         },
         "da" : {
@@ -116351,8 +116351,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Do not share any diagnostic data."
+            "state" : "translated",
+            "value" : "Nesdílet žádná diagnostická data."
           }
         },
         "da" : {
@@ -116880,8 +116880,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Dosing Mode"
+            "state" : "translated",
+            "value" : "Režim dávkování"
           }
         },
         "da" : {
@@ -117010,8 +117010,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Dosing Mode decides how much of Trio's insulin dosing decision is actually sent to your pump. Every mode still needs an active CGM sensor session and a connected pump."
+            "state" : "translated",
+            "value" : "Režim dávkování určuje, jaká část rozhodnutí Tria o dávkování inzulínu se skutečně odešle do pumpy. Každý režim stále vyžaduje aktivní senzor CGM a připojenou pumpu."
           }
         },
         "da" : {
@@ -117141,8 +117141,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Double tap to confirm"
+            "state" : "translated",
+            "value" : "Potvrď dvojitým klepnutím"
           }
         },
         "da" : {
@@ -117272,8 +117272,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Double tap to edit"
+            "state" : "translated",
+            "value" : "Uprav dvojitým klepnutím"
           }
         },
         "da" : {
@@ -117403,8 +117403,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Double tap to enable this override"
+            "state" : "translated",
+            "value" : "Dvojitým klepnutím aktivuj toto přepsání"
           }
         },
         "da" : {
@@ -117533,8 +117533,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Double-Tap"
+            "state" : "translated",
+            "value" : "Dvojité klepnutí"
           }
         },
         "da" : {
@@ -117558,7 +117558,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toucher deux fois"
+            "value" : "Touchez deux fois"
           }
         },
         "he" : {
@@ -117663,8 +117663,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drag"
+            "state" : "translated",
+            "value" : "Přetáhnout"
           }
         },
         "da" : {
@@ -117793,8 +117793,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Drives the outer-ring + tag on the home screen's glucose bobble."
+            "state" : "translated",
+            "value" : "Ovládá vnější kroužek a štítek ukazatele glykémie na hlavní obrazovce."
           }
         },
         "da" : {
@@ -118705,8 +118705,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Dynamic (Default):"
+            "state" : "translated",
+            "value" : "Dynamický (výchozí):"
           }
         },
         "da" : {
@@ -119095,8 +119095,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Dynamic ISF is off, so those terms will not show up."
+            "state" : "translated",
+            "value" : "Dynamický ISF je vypnutý, proto se tyto položky nebudou zobrazovat."
           }
         },
         "da" : {
@@ -120534,8 +120534,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edge"
+            "state" : "translated",
+            "value" : "Hrana"
           }
         },
         "da" : {
@@ -123065,8 +123065,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable Full Sharing"
+            "state" : "translated",
+            "value" : "Povolit úplné sdílení"
           }
         },
         "da" : {
@@ -123853,8 +123853,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable Quick-Pick Treatments"
+            "state" : "translated",
+            "value" : "Povolit rychlý výběr léčebných úkonů"
           }
         },
         "da" : {
@@ -125296,8 +125296,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enable this feature to show the forecast on the Apple Watch"
+            "state" : "translated",
+            "value" : "Povolit tuto funkci pro zobrazení předpovědi glykémie na Apple Watch"
           }
         },
         "da" : {
@@ -126217,8 +126217,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Enables this temp target"
+            "state" : "translated",
+            "value" : "Aktivuje tento dočasný cíl"
           }
         },
         "da" : {
@@ -130025,8 +130025,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "End Snooze"
+            "state" : "translated",
+            "value" : "Ukončit odložení bolusu"
           }
         },
         "da" : {
@@ -130155,8 +130155,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Endpoint"
+            "state" : "translated",
+            "value" : "Koncový bod"
           }
         },
         "da" : {
@@ -131868,8 +131868,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Error: could not determine target_bg. "
+            "state" : "translated",
+            "value" : "Chyba: Nepodařilo se určit cílovou glykémii."
           }
         },
         "da" : {
@@ -131998,8 +131998,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Error: could not get current basal rate"
+            "state" : "translated",
+            "value" : "Chyba: Nepodařilo se zjistit aktuální bazální dávku."
           }
         },
         "da" : {
@@ -132919,8 +132919,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Eventual glucose"
+            "state" : "translated",
+            "value" : "Výsledná glykémie"
           }
         },
         "da" : {
@@ -136664,7 +136664,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "F"
           }
         },
@@ -137055,8 +137055,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Face ID or Touch ID did not succeed. The bolus was not enacted."
+            "state" : "translated",
+            "value" : "Ověření pomocí Face ID nebo Touch ID se nezdařilo. Bolus nebyl podán."
           }
         },
         "da" : {
@@ -138935,8 +138935,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "falling"
+            "state" : "translated",
+            "value" : "Klesá"
           }
         },
         "da" : {
@@ -139066,8 +139066,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "falling quickly"
+            "state" : "translated",
+            "value" : "Rychle klesá"
           }
         },
         "da" : {
@@ -139197,8 +139197,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "falling slowly"
+            "state" : "translated",
+            "value" : "Pomalu klesá"
           }
         },
         "da" : {
@@ -141563,8 +141563,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when glucose drops to or below a low threshold."
+            "state" : "translated",
+            "value" : "Upozorní, když glykémie klesne na hranici nízké glykémie nebo pod ni."
           }
         },
         "da" : {
@@ -141693,8 +141693,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when glucose drops to or below an urgent low threshold."
+            "state" : "translated",
+            "value" : "Upozorní, když glykémie klesne na hranici kriticky nízké glykémie nebo pod ni."
           }
         },
         "da" : {
@@ -141823,8 +141823,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when glucose is at or above this value."
+            "state" : "translated",
+            "value" : "Upozorní, když glykémie dosáhne této hodnoty nebo ji překročí."
           }
         },
         "da" : {
@@ -141953,8 +141953,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when glucose is at or below this value."
+            "state" : "translated",
+            "value" : "Upozorní, když glykémie dosáhne této hodnoty nebo klesne pod ni."
           }
         },
         "da" : {
@@ -142083,8 +142083,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when glucose is forecasted to be low within the next 20 minutes."
+            "state" : "translated",
+            "value" : "Upozorní, pokud se během následujících 20 minut předpokládá nízká glykémie."
           }
         },
         "da" : {
@@ -142213,8 +142213,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when glucose rises to or above a high threshold."
+            "state" : "translated",
+            "value" : "Upozorní, když glykémie dosáhne hranice vysoké glykémie nebo ji překročí."
           }
         },
         "da" : {
@@ -142343,8 +142343,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when oref recommends eating carbs to avoid a low."
+            "state" : "translated",
+            "value" : "Upozorní, když algoritmus oref doporučí přijmout sacharidy, aby se předešlo nízké glykémii."
           }
         },
         "da" : {
@@ -142473,8 +142473,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when the algorithm suggests to eat at least this many grams of carbs to avoid a low."
+            "state" : "translated",
+            "value" : "Upozorní, když algoritmus doporučí přijmout alespoň stanovené množství sacharidů v gramech, aby se předešlo nízké glykémii."
           }
         },
         "da" : {
@@ -142604,8 +142604,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fires when the forecast at +20 minutes (blended across all available prediction curves) is at or below this value."
+            "state" : "translated",
+            "value" : "Upozorní, pokud předpověď glykémie za 20 minut (kombinovaná ze všech dostupných predikčních křivek) dosáhne této hodnoty nebo klesne pod ni."
           }
         },
         "da" : {
@@ -143782,8 +143782,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For everyday heads-up notifications. These behave like a standard banner — they stay quiet when your phone is silenced or a Focus is on. Examples: an algorithm error, a sensor expiration reminder, or a time-zone change being detected."
+            "state" : "translated",
+            "value" : "Pro běžná informační upozornění. Chovají se jako standardní oznámení – nevydávají zvuk, když je telefon ztišený nebo je zapnutý režim Soustředění. Příklady: chyba algoritmu, připomenutí konce životnosti senzoru nebo zjištěná změna časového pásma."
           }
         },
         "da" : {
@@ -144438,8 +144438,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For situations that require prompt attention. These break through Silent Mode, Do Not Disturb, and any Focus you have enabled. Examples: a pump fault, an occlusion, or Trio not looping for too long. Heads up: if your build of Trio has Apple's Critical Alerts entitlement, iOS plays its own critical alert sound and the sound you picked for this alert category is ignored."
+            "state" : "translated",
+            "value" : "Pro situace vyžadující okamžitou pozornost. Tato upozornění se zobrazí a zazní i při zapnutém tichém režimu, režimu Nerušit nebo jiném režimu Soustředění. Příklady: porucha pumpy, ucpání kanyly nebo příliš dlouhá nečinnost smyčky Trio.\nUpozornění: Pokud má tvoje verze Tria oprávnění používat kritická upozornění Apple, iOS přehraje vlastní zvuk kritického upozornění a zvuk vybraný pro tuto kategorii se nepoužije."
           }
         },
         "da" : {
@@ -144568,8 +144568,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "For things you should know about soon, but not 'act right now'. These can break through banner suppression on the lock screen, but they still obey Silent Mode and Focus by default. Examples: reservoir running low, pod or patch expiring soon, or glucose data going stale."
+            "state" : "translated",
+            "value" : "Pro upozornění na situace, o kterých bys měl(a) brzy vědět, ale nevyžadují okamžitý zásah. Mohou se zobrazit na zamčené obrazovce i při potlačení běžných oznámení, ale standardně respektují tichý režim a režim Soustředění. Příklady: nízká hladina inzulínu v zásobníku, blížící se konec životnosti Podu nebo patche či zastaralé údaje o glykémii."
           }
         },
         "da" : {
@@ -144836,8 +144836,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Forcing loop…"
+            "state" : "translated",
+            "value" : "Vynucuji spuštění smyčky…"
           }
         },
         "da" : {
@@ -145097,8 +145097,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "forecast eventually"
+            "state" : "translated",
+            "value" : "předpovídaná výsledná glykémie"
           }
         },
         "da" : {
@@ -146817,8 +146817,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Frequency"
+            "state" : "translated",
+            "value" : "Frekvence"
           }
         },
         "da" : {
@@ -147103,7 +147103,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bolus entier"
+            "value" : "Bolus total"
           }
         },
         "he" : {
@@ -148261,8 +148261,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "General"
+            "state" : "translated",
+            "value" : "Obecné"
           }
         },
         "da" : {
@@ -148912,8 +148912,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "getting low"
+            "state" : "translated",
+            "value" : "glykémie klesá"
           }
         },
         "da" : {
@@ -149570,8 +149570,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose %1$@."
+            "state" : "translated",
+            "value" : "Glykémie %1$@."
           }
         },
         "da" : {
@@ -149701,8 +149701,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Alarms"
+            "state" : "translated",
+            "value" : "Upozornění na glykémii"
           }
         },
         "da" : {
@@ -149832,8 +149832,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose and forecast chart"
+            "state" : "translated",
+            "value" : "Graf glykémie a předpovědi"
           }
         },
         "da" : {
@@ -149963,8 +149963,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose and Trend, no Delta"
+            "state" : "translated",
+            "value" : "Glykémie a trend bez změny hodnoty"
           }
         },
         "da" : {
@@ -150093,8 +150093,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose App Badge"
+            "state" : "translated",
+            "value" : "Odznak aplikace s glykémií"
           }
         },
         "da" : {
@@ -150223,8 +150223,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Bobble"
+            "state" : "translated",
+            "value" : "Bublina glykémie"
           }
         },
         "da" : {
@@ -150353,8 +150353,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Bobble Options"
+            "state" : "translated",
+            "value" : "Nastavení bubliny glykémie"
           }
         },
         "da" : {
@@ -150508,7 +150508,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Correction du glucose"
+            "value" : "Calcul du glucose"
           }
         },
         "he" : {
@@ -150744,8 +150744,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose chart, no data"
+            "state" : "translated",
+            "value" : "Graf glykémie, žádná data"
           }
         },
         "da" : {
@@ -150875,8 +150875,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose chart. Latest %1$@ %2$@."
+            "state" : "translated",
+            "value" : "Graf glykémie. Poslední hodnota %1$@ %2$@."
           }
         },
         "da" : {
@@ -151012,8 +151012,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose chart. Latest %1$@ %2$@. Visible range %3$@ to %4$@."
+            "state" : "translated",
+            "value" : "Graf glykémie. Poslední hodnota %1$@ %2$@. Zobrazený rozsah od %3$@ do %4$@."
           }
         },
         "da" : {
@@ -151539,8 +151539,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Data Stale"
+            "state" : "translated",
+            "value" : "Zastaralá data glykémie"
           }
         },
         "da" : {
@@ -152197,8 +152197,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose distribution by time of day chart"
+            "state" : "translated",
+            "value" : "Graf rozložení glykémie podle denní doby"
           }
         },
         "da" : {
@@ -152327,8 +152327,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose Error"
+            "state" : "translated",
+            "value" : "Chyba glykémie"
           }
         },
         "da" : {
@@ -152587,8 +152587,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose is stale for calibration"
+            "state" : "translated",
+            "value" : "Údaje o glykémii jsou pro kalibraci zastaralé"
           }
         },
         "da" : {
@@ -153114,8 +153114,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose out of range: %@."
+            "state" : "translated",
+            "value" : "Glykémie mimo rozsah: %@."
           }
         },
         "da" : {
@@ -153244,8 +153244,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose percentile chart"
+            "state" : "translated",
+            "value" : "Graf percentilů glykémie"
           }
         },
         "da" : {
@@ -154170,8 +154170,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose target profile chart, 24 hours"
+            "state" : "translated",
+            "value" : "Graf cílových hodnot glykémie, 24 hodin"
           }
         },
         "da" : {
@@ -154951,8 +154951,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose unavailable"
+            "state" : "translated",
+            "value" : "Glykémie není dostupná"
           }
         },
         "da" : {
@@ -155486,8 +155486,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Glucose, Trend, Delta"
+            "state" : "translated",
+            "value" : "Glykémie, trend, změna"
           }
         },
         "da" : {
@@ -156552,8 +156552,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "grams per unit"
+            "state" : "translated",
+            "value" : "gramů na jednotku"
           }
         },
         "da" : {
@@ -157334,8 +157334,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Handled by CGM App"
+            "state" : "translated",
+            "value" : "Upozornění zajišťuje aplikace CGM"
           }
         },
         "da" : {
@@ -158536,8 +158536,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hey Trioneer, watch out!"
+            "state" : "translated",
+            "value" : "Pozor, používáš testovací verzi Trio!"
           }
         },
         "da" : {
@@ -159332,8 +159332,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Hide Statistics"
+            "state" : "translated",
+            "value" : "Skrýt statistiky"
           }
         },
         "da" : {
@@ -159463,8 +159463,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "high"
+            "state" : "translated",
+            "value" : "vysoká"
           }
         },
         "da" : {
@@ -159999,8 +159999,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "High Chimes"
+            "state" : "translated",
+            "value" : "Zvuky vysoké glykémie"
           }
         },
         "da" : {
@@ -161708,8 +161708,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Home Statistics Panel"
+            "state" : "translated",
+            "value" : "Panel statistik na úvodní obrazovce"
           }
         },
         "da" : {
@@ -162107,8 +162107,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Honk"
+            "state" : "translated",
+            "value" : "Troubení"
           }
         },
         "da" : {
@@ -162376,8 +162376,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "hour"
+            "state" : "translated",
+            "value" : "hodina"
           }
         },
         "da" : {
@@ -163563,8 +163563,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "How to Return to Main"
+            "state" : "translated",
+            "value" : "Jak se vrátit na hlavní obrazovku"
           }
         },
         "da" : {
@@ -164109,7 +164109,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "J'ai compris,  continuons"
+            "value" : "J'ai compris ! Continuons"
           }
         },
         "he" : {
@@ -164215,8 +164215,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "I'm a Tester"
+            "state" : "translated",
+            "value" : "Jsem tester"
           }
         },
         "da" : {
@@ -165812,7 +165812,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si cette option est activée, une confirmation sera requise avant l'application."
+            "value" : "Si activé, une confirmation sera requise avant l'application."
           }
         },
         "he" : {
@@ -168049,7 +168049,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importer depuis le site Nightscout (NS)"
+            "value" : "Importer depuis Nightscout"
           }
         },
         "he" : {
@@ -168316,7 +168316,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importer les paramètres depuis le site Nightscout (NS)"
+            "value" : "Importer les paramètres depuis Nightscout"
           }
         },
         "he" : {
@@ -169225,8 +169225,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "in progress"
+            "state" : "translated",
+            "value" : "probíhá"
           }
         },
         "da" : {
@@ -169356,8 +169356,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "in range"
+            "state" : "translated",
+            "value" : "v cílovém rozmezí"
           }
         },
         "da" : {
@@ -171193,8 +171193,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Initiating…"
+            "state" : "translated",
+            "value" : "Zahajuji…"
           }
         },
         "da" : {
@@ -171859,8 +171859,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Limit Reached"
+            "state" : "translated",
+            "value" : "Dosažen limit inzulínu"
           }
         },
         "da" : {
@@ -171989,8 +171989,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Limit Warning"
+            "state" : "translated",
+            "value" : "Upozornění na limit inzulínu"
           }
         },
         "da" : {
@@ -172119,8 +172119,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin on board"
+            "state" : "translated",
+            "value" : "Aktivní inzulín"
           }
         },
         "da" : {
@@ -172250,8 +172250,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin on Board (IOB)"
+            "state" : "translated",
+            "value" : "Aktivní inzulín (IOB)"
           }
         },
         "da" : {
@@ -173175,8 +173175,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin Resume Reminder"
+            "state" : "translated",
+            "value" : "Připomenutí obnovení podávání inzulínu"
           }
         },
         "da" : {
@@ -173572,8 +173572,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Insulin sensitivity profile chart, 24 hours"
+            "state" : "translated",
+            "value" : "Graf citlivosti na inzulín, 24 hodin"
           }
         },
         "da" : {
@@ -175066,7 +175066,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Capteur CGM invalide"
+            "value" : "Capteur invalide"
           }
         },
         "he" : {
@@ -175204,7 +175204,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Capteur CGM invalide détecté"
+            "value" : "Capteur invalide détecté"
           }
         },
         "he" : {
@@ -176618,8 +176618,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "It can handle small gaps in data and ignores sensor error values. It needs 4 readings in a row, each arriving within 12 minutes of the one before it, to work properly. Only CGM readings are smoothed—manual entries are not changed."
+            "state" : "translated",
+            "value" : "Dokáže zpracovat krátké výpadky dat a ignoruje chybové hodnoty senzoru. Pro správnou funkci potřebuje 4 po sobě jdoucí měření, přičemž každé musí přijít nejpozději do 12 minut od předchozího. Vyhlazují se pouze hodnoty z CGM – ručně zadané hodnoty se nemění."
           }
         },
         "da" : {
@@ -177528,8 +177528,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Keep your finger down and slide to scrub along the curve; slide to either edge and the chart pans along with you."
+            "state" : "translated",
+            "value" : "Podrž prst na grafu a posouváním procházej křivku. Při posunutí k okraji se graf posune dál."
           }
         },
         "da" : {
@@ -178056,8 +178056,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "last device communication %@"
+            "state" : "translated",
+            "value" : "poslední komunikace se zařízením %@"
           }
         },
         "da" : {
@@ -178187,8 +178187,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "last loop %@"
+            "state" : "translated",
+            "value" : "poslední cyklus smyčky %@"
           }
         },
         "da" : {
@@ -178318,8 +178318,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "last loop delayed"
+            "state" : "translated",
+            "value" : "poslední cyklus smyčky má zpoždění"
           }
         },
         "da" : {
@@ -179114,8 +179114,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Last Updated"
+            "state" : "translated",
+            "value" : "Poslední aktualizace"
           }
         },
         "da" : {
@@ -179139,7 +179139,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dernière Mise à jour"
+            "value" : "Dernière mise à jour"
           }
         },
         "he" : {
@@ -179245,8 +179245,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "latest"
+            "state" : "translated",
+            "value" : "poslední"
           }
         },
         "da" : {
@@ -180286,8 +180286,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "less than a minute ago"
+            "state" : "translated",
+            "value" : "před méně než minutou"
           }
         },
         "da" : {
@@ -181891,8 +181891,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Limit with Safety Checks"
+            "state" : "translated",
+            "value" : "Omezit bezpečnostními kontrolami"
           }
         },
         "da" : {
@@ -183324,8 +183324,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "liter"
+            "state" : "translated",
+            "value" : "litr"
           }
         },
         "da" : {
@@ -184511,8 +184511,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Log carbs"
+            "state" : "translated",
+            "value" : "Zaznamenat sacharidy"
           }
         },
         "da" : {
@@ -184903,8 +184903,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Log carbs and enact bolus"
+            "state" : "translated",
+            "value" : "Zaznamenat sacharidy a podat bolus"
           }
         },
         "da" : {
@@ -186734,8 +186734,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Long-press the + button on the home screen to enact a quick-pick treatment."
+            "state" : "translated",
+            "value" : "Podržením tlačítka + na úvodní obrazovce otevřeš rychlou volbu záznamu léčby."
           }
         },
         "da" : {
@@ -187133,8 +187133,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "loop overdue"
+            "state" : "translated",
+            "value" : "cyklus smyčky má zpoždění"
           }
         },
         "da" : {
@@ -188054,8 +188054,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "looping normally"
+            "state" : "translated",
+            "value" : "smyčka pracuje normálně"
           }
         },
         "da" : {
@@ -188314,8 +188314,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Looping performance bar chart"
+            "state" : "translated",
+            "value" : "Sloupcový graf výkonu smyčky"
           }
         },
         "da" : {
@@ -188706,8 +188706,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "low"
+            "state" : "translated",
+            "value" : "nízká"
           }
         },
         "da" : {
@@ -189639,8 +189639,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Glucose Soon"
+            "state" : "translated",
+            "value" : "Brzy nízká glykémie"
           }
         },
         "da" : {
@@ -189770,8 +189770,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Low Glucose Suspend"
+            "state" : "translated",
+            "value" : "Pozastavení podávání při nízké glykémii"
           }
         },
         "da" : {
@@ -192145,8 +192145,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Manager Identifier"
+            "state" : "translated",
+            "value" : "Identifikátor správce"
           }
         },
         "da" : {
@@ -192545,8 +192545,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "manual entry"
+            "state" : "translated",
+            "value" : "ruční zadání"
           }
         },
         "da" : {
@@ -192805,8 +192805,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Manual Temp Basal Active"
+            "state" : "translated",
+            "value" : "Ruční dočasný bazál je aktivní"
           }
         },
         "da" : {
@@ -193066,8 +193066,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "manual temporary basal running"
+            "state" : "translated",
+            "value" : "probíhá ručně nastavený dočasný bazál"
           }
         },
         "da" : {
@@ -193855,8 +193855,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Max"
+            "state" : "translated",
+            "value" : "Maximum"
           }
         },
         "da" : {
@@ -196493,8 +196493,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Max IOB is 0 U"
+            "state" : "translated",
+            "value" : "Maximální IOB je 0 j."
           }
         },
         "da" : {
@@ -197837,7 +197837,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valeur Maximale"
+            "value" : "Valeur maximale"
           }
         },
         "he" : {
@@ -199652,8 +199652,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Meal macronutrients bar chart"
+            "state" : "translated",
+            "value" : "Sloupcový graf živin v jídle"
           }
         },
         "da" : {
@@ -202182,7 +202182,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Échec de la migration des données des déterminations d' \"OpenAPS\" au format JSON : %@"
+            "value" : "Échec de la migration des données de détermination d’OpenAPS au format JSON : %@"
           }
         },
         "he" : {
@@ -202288,8 +202288,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "milligrams"
+            "state" : "translated",
+            "value" : "miligramy"
           }
         },
         "da" : {
@@ -202419,8 +202419,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "milligrams per deciliter"
+            "state" : "translated",
+            "value" : "miligramy na decilitr"
           }
         },
         "da" : {
@@ -202550,8 +202550,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "milligrams per deciliter per unit"
+            "state" : "translated",
+            "value" : "miligramy na decilitr na jednotku"
           }
         },
         "da" : {
@@ -202681,8 +202681,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "millimoles"
+            "state" : "translated",
+            "value" : "milimoly"
           }
         },
         "da" : {
@@ -202812,8 +202812,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "millimoles per liter"
+            "state" : "translated",
+            "value" : "milimoly na litr"
           }
         },
         "da" : {
@@ -202943,8 +202943,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "millimoles per liter per unit"
+            "state" : "translated",
+            "value" : "milimoly na litr na jednotku"
           }
         },
         "da" : {
@@ -203205,8 +203205,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Min"
+            "state" : "translated",
+            "value" : "Minimum"
           }
         },
         "da" : {
@@ -203759,7 +203759,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minutes passées"
+            "value" : "min passées"
           }
         },
         "he" : {
@@ -204125,8 +204125,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Minimal"
+            "state" : "translated",
+            "value" : "Minimální"
           }
         },
         "da" : {
@@ -205594,8 +205594,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Missing required inputs; cannot determine basal."
+            "state" : "translated",
+            "value" : "Chybí požadované údaje; nelze určit bazální dávku."
           }
         },
         "da" : {
@@ -206788,8 +206788,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mood Synth"
+            "state" : "translated",
+            "value" : "Syntetizátor nálad"
           }
         },
         "da" : {
@@ -206918,8 +206918,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "More information"
+            "state" : "translated",
+            "value" : "Více informací"
           }
         },
         "da" : {
@@ -207048,8 +207048,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "More information about %@"
+            "state" : "translated",
+            "value" : "Více informací o %@"
           }
         },
         "da" : {
@@ -207445,8 +207445,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Mute Trio Alarms"
+            "state" : "translated",
+            "value" : "Ztlumit upozornění Tria"
           }
         },
         "da" : {
@@ -207975,8 +207975,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Neither the carbs nor the bolus could be saved. Please try again."
+            "state" : "translated",
+            "value" : "Nepodařilo se uložit sacharidy ani bolus. Zkus to znovu."
           }
         },
         "da" : {
@@ -208496,8 +208496,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "New Release v%@"
+            "state" : "translated",
+            "value" : "Nová verze v%@"
           }
         },
         "da" : {
@@ -208659,7 +208659,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nouveau capteur CGM détecté"
+            "value" : "Nouveau capteur détecté"
           }
         },
         "he" : {
@@ -208894,8 +208894,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Next field"
+            "state" : "translated",
+            "value" : "Další pole"
           }
         },
         "da" : {
@@ -209025,8 +209025,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Night only"
+            "state" : "translated",
+            "value" : "Pouze v noci"
           }
         },
         "da" : {
@@ -209156,8 +209156,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Night Starts"
+            "state" : "translated",
+            "value" : "Začátek noci"
           }
         },
         "da" : {
@@ -209815,8 +209815,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Nightscout setup and unit and pump model selection are all complete."
+            "state" : "translated",
+            "value" : "Nastavení Nightscoutu, jednotek i modelu pumpy je dokončeno."
           }
         },
         "da" : {
@@ -210597,8 +210597,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Bolus, Log Carbs"
+            "state" : "translated",
+            "value" : "Bez bolusu, zaznamenat sacharidy"
           }
         },
         "da" : {
@@ -211522,8 +211522,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No glucose delta (flat readings); cannot determine trend."
+            "state" : "translated",
+            "value" : "Glykémie se nemění (plochý trend); nelze určit trend."
           }
         },
         "da" : {
@@ -211912,8 +211912,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No glucose status; cannot determine basal."
+            "state" : "translated",
+            "value" : "Chybí stav glykémie; nelze určit bazální dávku."
           }
         },
         "da" : {
@@ -212042,8 +212042,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No IOB data available; cannot determine basal."
+            "state" : "translated",
+            "value" : "Nejsou dostupné údaje IOB; nelze určit bazální dávku."
           }
         },
         "da" : {
@@ -212967,8 +212967,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No profile; cannot determine basal."
+            "state" : "translated",
+            "value" : "Chybí profil; nelze určit bazální dávku."
           }
         },
         "da" : {
@@ -213097,8 +213097,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No recent determination."
+            "state" : "translated",
+            "value" : "Zatím žádné aktuální rozhodnutí."
           }
         },
         "da" : {
@@ -213227,8 +213227,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No Recent Glucose"
+            "state" : "translated",
+            "value" : "Žádné nedávné hodnoty glykémie"
           }
         },
         "da" : {
@@ -213658,7 +213658,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucun capteur CGM détecté"
+            "value" : "Aucun capteur détecté"
           }
         },
         "he" : {
@@ -214292,8 +214292,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No treatment history yet"
+            "state" : "translated",
+            "value" : "Zatím žádná historie záznamů léčby"
           }
         },
         "da" : {
@@ -214422,8 +214422,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "No URL available"
+            "state" : "translated",
+            "value" : "Není dostupná adresa URL"
           }
         },
         "da" : {
@@ -216023,8 +216023,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "not complete"
+            "state" : "translated",
+            "value" : "nedokončeno"
           }
         },
         "da" : {
@@ -216154,8 +216154,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "not connected"
+            "state" : "translated",
+            "value" : "nepřipojeno"
           }
         },
         "da" : {
@@ -216415,8 +216415,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "not dosing"
+            "state" : "translated",
+            "value" : "nepodává inzulín"
           }
         },
         "da" : {
@@ -216676,8 +216676,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "not looping"
+            "state" : "translated",
+            "value" : "smyčka nepracuje"
           }
         },
         "da" : {
@@ -217074,8 +217074,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Not selected"
+            "state" : "translated",
+            "value" : "Nevybráno"
           }
         },
         "da" : {
@@ -220073,8 +220073,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Nothing is currently running."
+            "state" : "translated",
+            "value" : "Momentálně nic neprobíhá."
           }
         },
         "da" : {
@@ -220341,8 +220341,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Nothing Was Saved"
+            "state" : "translated",
+            "value" : "Nic se neuložilo"
           }
         },
         "da" : {
@@ -220999,8 +220999,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Notifications Disabled"
+            "state" : "translated",
+            "value" : "Oznámení jsou vypnutá"
           }
         },
         "da" : {
@@ -221527,8 +221527,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "now"
+            "state" : "translated",
+            "value" : "nyní"
           }
         },
         "da" : {
@@ -222324,8 +222324,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Occlusion"
+            "state" : "translated",
+            "value" : "Okluze"
           }
         },
         "da" : {
@@ -223244,8 +223244,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Once a day (or after a new build is installed), Trio sends a small JSON object to a self-hosted endpoint maintained by the Trio team. No third-party analytics service is involved."
+            "state" : "translated",
+            "value" : "Jednou denně (nebo po instalaci nového sestavení) Trio odešle malý objekt JSON na server provozovaný týmem Trio. Nepoužívá se žádná analytická služba třetí strany."
           }
         },
         "da" : {
@@ -223504,8 +223504,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Once every 24 hours while the app is running, plus once after installing a new build."
+            "state" : "translated",
+            "value" : "Jednou za 24 hodin při spuštěné aplikaci a jednou po instalaci nové verze."
           }
         },
         "da" : {
@@ -224162,8 +224162,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Only shown for the Glucose Bobble style, which replaces Display Values, Ring Settings, and Font Settings:"
+            "state" : "translated",
+            "value" : "Zobrazuje se pouze pro styl Bublina glykémie, který nahrazuje nastavení zobrazených hodnot, prstence a písma:"
           }
         },
         "da" : {
@@ -224682,8 +224682,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open failed"
+            "state" : "translated",
+            "value" : "Otevření se nezdařilo"
           }
         },
         "da" : {
@@ -225074,8 +225074,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Open Loop"
+            "state" : "translated",
+            "value" : "Otevřená smyčka"
           }
         },
         "da" : {
@@ -225229,7 +225229,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accéder à Nightscout (Ns)"
+            "value" : "Ouvrir Nightscout"
           }
         },
         "he" : {
@@ -226014,8 +226014,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens a picker to change the target"
+            "state" : "translated",
+            "value" : "Otevře výběr cílové hodnoty"
           }
         },
         "da" : {
@@ -226145,8 +226145,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens a picker to change the value"
+            "state" : "translated",
+            "value" : "Otevře výběr hodnoty"
           }
         },
         "da" : {
@@ -226276,8 +226276,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens a picker to change this limit"
+            "state" : "translated",
+            "value" : "Otevře výběr tohoto limitu"
           }
         },
         "da" : {
@@ -226407,8 +226407,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens a picker to change this value"
+            "state" : "translated",
+            "value" : "Otevře výběr této hodnoty"
           }
         },
         "da" : {
@@ -226538,8 +226538,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens a picker to edit this entry"
+            "state" : "translated",
+            "value" : "Otevře úpravu tohoto záznamu"
           }
         },
         "da" : {
@@ -226669,8 +226669,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens adjustments"
+            "state" : "translated",
+            "value" : "Otevře nastavení úprav"
           }
         },
         "da" : {
@@ -226800,8 +226800,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens loop status"
+            "state" : "translated",
+            "value" : "Otevře stav smyčky"
           }
         },
         "da" : {
@@ -226931,8 +226931,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens pump settings"
+            "state" : "translated",
+            "value" : "Otevře nastavení pumpy"
           }
         },
         "da" : {
@@ -227062,8 +227062,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens pump setup"
+            "state" : "translated",
+            "value" : "Otevře nastavení pumpy"
           }
         },
         "da" : {
@@ -227193,8 +227193,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opens snooze options"
+            "state" : "translated",
+            "value" : "Otevře možnosti odložení upozornění"
           }
         },
         "da" : {
@@ -227323,8 +227323,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Opt out"
+            "state" : "translated",
+            "value" : "Nepovolovat sdílení"
           }
         },
         "da" : {
@@ -227454,8 +227454,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Optionally sync with Nightscout and enter essentials."
+            "state" : "translated",
+            "value" : "Volitelně připoj Nightscout a zadej základní údaje."
           }
         },
         "da" : {
@@ -227982,8 +227982,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Other Notifications"
+            "state" : "translated",
+            "value" : "Ostatní oznámení"
           }
         },
         "da" : {
@@ -228113,8 +228113,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Other Sources"
+            "state" : "translated",
+            "value" : "Ostatní zdroje"
           }
         },
         "da" : {
@@ -229825,8 +229825,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Override Silence & Focus Mode"
+            "state" : "translated",
+            "value" : "Obejít tichý režim a soustředění"
           }
         },
         "da" : {
@@ -230621,8 +230621,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Overrides Focus"
+            "state" : "translated",
+            "value" : "Obchází režim soustředění"
           }
         },
         "da" : {
@@ -230751,8 +230751,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Overrides Silence & Focus Mode. For situations requiring immediate attention."
+            "state" : "translated",
+            "value" : "Obchází tichý režim a soustředění. Pro situace vyžadující okamžitou pozornost."
           }
         },
         "da" : {
@@ -231012,7 +231012,7 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "P"
           }
         },
@@ -231806,8 +231806,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pairing Failed"
+            "state" : "translated",
+            "value" : "Párování se nezdařilo"
           }
         },
         "da" : {
@@ -232073,8 +232073,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pans the chart through time. Flick and let go to keep it gliding."
+            "state" : "translated",
+            "value" : "Posouvá graf v čase. Rychlým přejetím a uvolněním se graf posouvá dál."
           }
         },
         "da" : {
@@ -233153,8 +233153,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "per"
+            "state" : "translated",
+            "value" : "na"
           }
         },
         "da" : {
@@ -233284,8 +233284,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "percent"
+            "state" : "translated",
+            "value" : "procent"
           }
         },
         "da" : {
@@ -235127,8 +235127,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pick a duration to mute every Trio alarm. Critical alerts (e.g. occlusion, urgent low) still pierce the snooze."
+            "state" : "translated",
+            "value" : "Vyber dobu ztlumení všech upozornění Tria. Kritická upozornění (např. okluze nebo kriticky nízká glykémie) zůstanou aktivní."
           }
         },
         "da" : {
@@ -235387,8 +235387,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pierces banner suppression but obeys Silence & Focus Mode by default."
+            "state" : "translated",
+            "value" : "Prolomí potlačení bannerů, ale standardně respektuje tichý režim a soustředění."
           }
         },
         "da" : {
@@ -235517,8 +235517,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pinch"
+            "state" : "translated",
+            "value" : "Stažení prsty"
           }
         },
         "da" : {
@@ -235648,8 +235648,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Play preview"
+            "state" : "translated",
+            "value" : "Přehrát ukázku"
           }
         },
         "da" : {
@@ -235778,8 +235778,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Play Sound"
+            "state" : "translated",
+            "value" : "Přehrát zvuk"
           }
         },
         "da" : {
@@ -236995,7 +236995,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Patientez s''il vous plait"
+            "value" : "Veuillez patienter"
           }
         },
         "he" : {
@@ -237133,7 +237133,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veuillez patienter jusqu'à 30 minutes avant que les mesures de glucose soient disponibles !"
+            "value" : "Les mesures de glucose seront disponibles dans un délai pouvant aller jusqu’à 30 minutes !"
           }
         },
         "he" : {
@@ -237369,8 +237369,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pod expiration"
+            "state" : "translated",
+            "value" : "Vypršení platnosti podu"
           }
         },
         "da" : {
@@ -238684,8 +238684,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press and Hold"
+            "state" : "translated",
+            "value" : "Stisknout a podržet"
           }
         },
         "da" : {
@@ -238944,8 +238944,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Previous field"
+            "state" : "translated",
+            "value" : "Předchozí pole"
           }
         },
         "da" : {
@@ -239212,8 +239212,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Previous Versions"
+            "state" : "translated",
+            "value" : "Předchozí verze"
           }
         },
         "da" : {
@@ -239472,8 +239472,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Privacy"
+            "state" : "translated",
+            "value" : "Soukromí"
           }
         },
         "da" : {
@@ -239602,8 +239602,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Privacy details"
+            "state" : "translated",
+            "value" : "Podrobnosti o soukromí"
           }
         },
         "da" : {
@@ -241578,8 +241578,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pull down to force loop"
+            "state" : "translated",
+            "value" : "Tažením dolů vynutíš cyklus smyčky"
           }
         },
         "da" : {
@@ -241845,8 +241845,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump battery"
+            "state" : "translated",
+            "value" : "Baterie pumpy"
           }
         },
         "da" : {
@@ -241975,8 +241975,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Battery Empty"
+            "state" : "translated",
+            "value" : "Baterie pumpy je vybitá"
           }
         },
         "da" : {
@@ -242105,8 +242105,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Battery Low"
+            "state" : "translated",
+            "value" : "Nízký stav baterie pumpy"
           }
         },
         "da" : {
@@ -242235,8 +242235,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump clock differs from phone. Tap to review."
+            "state" : "translated",
+            "value" : "Čas pumpy se liší od telefonu. Klepnutím zobrazíš podrobnosti."
           }
         },
         "da" : {
@@ -242260,7 +242260,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L'horloge de la pompe diffère de celle du téléphone. Appuyez pour vérifier."
+            "value" : "L'horloge de la pompe diffère de celle du téléphone. Touchez pour vérifier."
           }
         },
         "he" : {
@@ -242762,8 +242762,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump Fault"
+            "state" : "translated",
+            "value" : "Porucha pumpy"
           }
         },
         "da" : {
@@ -243185,7 +243185,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La pompe délivre un bolus"
+            "value" : "La pompe administre un bolus"
           }
         },
         "he" : {
@@ -244216,8 +244216,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pump State Error"
+            "state" : "translated",
+            "value" : "Chyba stavu pumpy"
           }
         },
         "da" : {
@@ -244736,8 +244736,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Purple = Above Range"
+            "state" : "translated",
+            "value" : "Fialová = nad cílovým rozmezím"
           }
         },
         "da" : {
@@ -245647,8 +245647,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Quick Pick Treatments"
+            "state" : "translated",
+            "value" : "Rychlá volba záznamů léčby"
           }
         },
         "da" : {
@@ -245778,8 +245778,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Quick-Pick Treatments"
+            "state" : "translated",
+            "value" : "Rychlá volba záznamů léčby"
           }
         },
         "da" : {
@@ -245909,8 +245909,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Quick-Pick Treatments learns from your manual boluses and carb entries over time. Once you've logged a few, it will suggest amounts based on what you typically enter at this time of day."
+            "state" : "translated",
+            "value" : "Rychlý výběr záznamů se postupně učí z ručně zadaných bolusů a sacharidů. Po několika záznamech začne navrhovat množství podle toho, co obvykle zadáváš v tuto denní dobu."
           }
         },
         "da" : {
@@ -246040,8 +246040,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Quick-Pick Treatments looks at your manual boluses and carb entries from the past 90 days and suggests the amounts you most commonly enter at this time of day.\n\nIt gives more weight to entries from similar times of day, and treats weekdays and weekends separately. Older entries gradually count less.\n\nTap a bolus amount, a carb amount, or both, then slide to confirm.\n\nFor calculator or recommendations, use the Treatments View."
+            "state" : "translated",
+            "value" : "Rychlý výběr záznamů vychází z ručně zadaných bolusů a sacharidů za posledních 90 dní a navrhuje množství, která v tuto denní dobu zadáváš nejčastěji.\n\nVětší váhu mají záznamy z podobné denní doby. Pracovní dny a víkendy se posuzují odděleně a starší záznamy mají postupně menší váhu.\n\nKlepni na množství bolusu, sacharidů nebo na obojí a potvrď posunutím.\n\nPro výpočet nebo doporučení použij obrazovku Záznamy."
           }
         },
         "da" : {
@@ -247478,8 +247478,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Read the full release notes"
+            "state" : "translated",
+            "value" : "Přečíst celé poznámky k vydání"
           }
         },
         "da" : {
@@ -249323,8 +249323,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Recommended to always override silence and Focus mode."
+            "state" : "translated",
+            "value" : "Doporučuje se vždy obejít tichý režim a soustředění."
           }
         },
         "da" : {
@@ -250235,8 +250235,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Release Notes"
+            "state" : "translated",
+            "value" : "Poznámky k vydání"
           }
         },
         "da" : {
@@ -251409,8 +251409,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remove one serving"
+            "state" : "translated",
+            "value" : "Odebrat jednu porci"
           }
         },
         "da" : {
@@ -251539,8 +251539,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Remove widget"
+            "state" : "translated",
+            "value" : "Odebrat widget"
           }
         },
         "da" : {
@@ -251800,8 +251800,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Replace CGM Sensor"
+            "state" : "translated",
+            "value" : "Vyměnit senzor CGM"
           }
         },
         "da" : {
@@ -252321,8 +252321,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reservoir"
+            "state" : "translated",
+            "value" : "Zásobník"
           }
         },
         "da" : {
@@ -252451,8 +252451,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reservoir Empty"
+            "state" : "translated",
+            "value" : "Zásobník je prázdný"
           }
         },
         "da" : {
@@ -252711,8 +252711,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reservoir Low"
+            "state" : "translated",
+            "value" : "Nízká hladina v zásobníku"
           }
         },
         "da" : {
@@ -252841,8 +252841,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset and retry send"
+            "state" : "translated",
+            "value" : "Resetovat a zkusit odeslat znovu"
           }
         },
         "da" : {
@@ -252971,8 +252971,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset App Attest state"
+            "state" : "translated",
+            "value" : "Resetovat stav App Attest"
           }
         },
         "da" : {
@@ -253101,8 +253101,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reset App Attest state?"
+            "state" : "translated",
+            "value" : "Resetovat stav App Attest?"
           }
         },
         "da" : {
@@ -253492,8 +253492,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Rest a finger on the chart to inspect a single reading with its IOB and COB."
+            "state" : "translated",
+            "value" : "Přidržením prstu na grafu zobrazíš konkrétní měření včetně IOB a COB."
           }
         },
         "da" : {
@@ -255086,8 +255086,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "RileyLink Battery Low"
+            "state" : "translated",
+            "value" : "Nízký stav baterie RileyLink"
           }
         },
         "da" : {
@@ -255737,8 +255737,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "rising"
+            "state" : "translated",
+            "value" : "stoupá"
           }
         },
         "da" : {
@@ -255868,8 +255868,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "rising quickly"
+            "state" : "translated",
+            "value" : "rychle stoupá"
           }
         },
         "da" : {
@@ -255999,8 +255999,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "rising slowly"
+            "state" : "translated",
+            "value" : "pomalu stoupá"
           }
         },
         "da" : {
@@ -258525,8 +258525,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Scenario"
+            "state" : "translated",
+            "value" : "Scénář"
           }
         },
         "da" : {
@@ -260114,8 +260114,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "See what's new in this version."
+            "state" : "translated",
+            "value" : "Podívej se, co je v této verzi nového."
           }
         },
         "da" : {
@@ -261422,8 +261422,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Selected"
+            "state" : "translated",
+            "value" : "Vybráno"
           }
         },
         "da" : {
@@ -263024,7 +263024,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Âge du capteur (CGM)"
+            "value" : "Âge du capteur"
           }
         },
         "he" : {
@@ -263161,7 +263161,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Durée restante du capteur (CGM)"
+            "value" : "Durée restante du capteur"
           }
         },
         "he" : {
@@ -263298,7 +263298,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Changement de capteur (CGM)"
+            "value" : "Changement de capteur"
           }
         },
         "he" : {
@@ -263436,7 +263436,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fin imminente du capteur (CGM)"
+            "value" : "Fin imminente du capteur"
           }
         },
         "he" : {
@@ -263573,7 +263573,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Heure de fin du capteur (CGM)"
+            "value" : "Heure de fin du capteur"
           }
         },
         "he" : {
@@ -263710,7 +263710,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le capteur (CGM) expire bientôt"
+            "value" : "Le capteur expire bientôt"
           }
         },
         "he" : {
@@ -263847,7 +263847,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Somme du contrôle du capteur (CGM) en pied de page."
+            "value" : "Somme de contrôle du footer du capteur"
           }
         },
         "he" : {
@@ -263984,7 +263984,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informations sur le capteur (CGM)"
+            "value" : "Informations sur le capteur"
           }
         },
         "he" : {
@@ -264089,8 +264089,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sensor Lifecycle Scenario"
+            "state" : "translated",
+            "value" : "Scénář životního cyklu senzoru"
           }
         },
         "da" : {
@@ -264252,7 +264252,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le capteur a peut-être cessé temporairement de fonctionner, soit il s’est décollé, est trop froid ou trop chaud"
+            "value" : "Le capteur a peut-être cessé temporairement de fonctionner, s’est décollé, ou est trop froid ou trop chaud"
           }
         },
         "he" : {
@@ -264389,7 +264389,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Capteur non trouvé "
+            "value" : "Capteur non trouvé"
           }
         },
         "he" : {
@@ -264526,7 +264526,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Numéro de série du capteur (CGM)"
+            "value" : "Numéro de série du capteur"
           }
         },
         "he" : {
@@ -264663,7 +264663,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "État du capteur (CGM)"
+            "value" : "État du capteur"
           }
         },
         "he" : {
@@ -264800,7 +264800,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Type de capteur (CGM)"
+            "value" : "Type de capteur"
           }
         },
         "he" : {
@@ -265817,8 +265817,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Set low and high glucose values for the main screen, watch app, live activity, and contact image colors."
+            "state" : "translated",
+            "value" : "Nastav nízkou a vysokou glykémii pro barvy na hlavní obrazovce, hodinkách, živé aktivitě a obrázku kontaktu."
           }
         },
         "da" : {
@@ -267423,8 +267423,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Setup Incomplete"
+            "state" : "translated",
+            "value" : "Nastavení není dokončeno"
           }
         },
         "da" : {
@@ -267683,8 +267683,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Share anonymous crash reports + usage data."
+            "state" : "translated",
+            "value" : "Sdílet anonymní hlášení o pádech a údaje o používání."
           }
         },
         "da" : {
@@ -268081,8 +268081,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Share only crash reports — no usage data."
+            "state" : "translated",
+            "value" : "Sdílet pouze hlášení o pádech, bez údajů o používání."
           }
         },
         "da" : {
@@ -269122,8 +269122,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Delta"
+            "state" : "translated",
+            "value" : "Zobrazit změnu glykémie"
           }
         },
         "da" : {
@@ -269253,8 +269253,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show forecast on Watch"
+            "state" : "translated",
+            "value" : "Zobrazit předpověď na hodinkách"
           }
         },
         "da" : {
@@ -269384,8 +269384,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Forecast on Watch"
+            "state" : "translated",
+            "value" : "Zobrazit předpověď na hodinkách"
           }
         },
         "da" : {
@@ -270310,8 +270310,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show Minutes Since Reading"
+            "state" : "translated",
+            "value" : "Zobrazit minuty od měření"
           }
         },
         "da" : {
@@ -271091,8 +271091,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Shows forecast on the Apple Watch"
+            "state" : "translated",
+            "value" : "Zobrazuje předpověď na Apple Watch"
           }
         },
         "da" : {
@@ -272392,8 +272392,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Simulator"
+            "state" : "translated",
+            "value" : "Simulátor"
           }
         },
         "da" : {
@@ -272547,7 +272547,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Construction du simulateur sans date d'expiration"
+            "value" : "Build du simulateur sans date d'expiration"
           }
         },
         "he" : {
@@ -273183,8 +273183,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slide to Confirm"
+            "state" : "translated",
+            "value" : "Posunutím potvrdit"
           }
         },
         "da" : {
@@ -273314,8 +273314,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slide to Enact"
+            "state" : "translated",
+            "value" : "Posunutím podat"
           }
         },
         "da" : {
@@ -273445,8 +273445,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slide to Log"
+            "state" : "translated",
+            "value" : "Posunutím zaznamenat"
           }
         },
         "da" : {
@@ -273576,8 +273576,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Slide to Log and Enact"
+            "state" : "translated",
+            "value" : "Posunutím zaznamenat a podat"
           }
         },
         "da" : {
@@ -276212,8 +276212,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze"
+            "state" : "translated",
+            "value" : "Odložit upozornění"
           }
         },
         "da" : {
@@ -276342,8 +276342,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze (15 min)"
+            "state" : "translated",
+            "value" : "Odložit upozornění (15 min)"
           }
         },
         "da" : {
@@ -276473,8 +276473,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze 1 hr"
+            "state" : "translated",
+            "value" : "Odložit o 1 hodinu"
           }
         },
         "da" : {
@@ -276604,8 +276604,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze 3 hrs"
+            "state" : "translated",
+            "value" : "Odložit o 3 hodiny"
           }
         },
         "da" : {
@@ -276735,8 +276735,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze 6 hrs"
+            "state" : "translated",
+            "value" : "Odložit o 6 hodin"
           }
         },
         "da" : {
@@ -276866,8 +276866,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze 15 min"
+            "state" : "translated",
+            "value" : "Odložit o 15 minut"
           }
         },
         "da" : {
@@ -276997,8 +276997,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze alerts"
+            "state" : "translated",
+            "value" : "Odložit upozornění"
           }
         },
         "da" : {
@@ -277257,8 +277257,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze all (15 min)"
+            "state" : "translated",
+            "value" : "Odložit všechna upozornění (15 min)"
           }
         },
         "da" : {
@@ -277387,8 +277387,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snooze All Alarms"
+            "state" : "translated",
+            "value" : "Odložit všechna upozornění"
           }
         },
         "da" : {
@@ -277654,8 +277654,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Snoozed until %@"
+            "state" : "translated",
+            "value" : "Odloženo do %@"
           }
         },
         "da" : {
@@ -277785,8 +277785,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "snoozed, %d minutes remaining"
+            "state" : "translated",
+            "value" : "odloženo, zbývá %d minut"
           }
         },
         "da" : {
@@ -278572,8 +278572,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sound off"
+            "state" : "translated",
+            "value" : "Zvuk vypnut"
           }
         },
         "da" : {
@@ -278702,8 +278702,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sound on"
+            "state" : "translated",
+            "value" : "Zvuk zapnut"
           }
         },
         "da" : {
@@ -279093,8 +279093,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Spring"
+            "state" : "translated",
+            "value" : "Pružina"
           }
         },
         "da" : {
@@ -280971,7 +280971,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Commence à"
+            "value" : "commence à"
           }
         },
         "he" : {
@@ -282134,8 +282134,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "steady"
+            "state" : "translated",
+            "value" : "stabilní"
           }
         },
         "da" : {
@@ -282401,8 +282401,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Steps through the zoom presets — 6, 12 and 24 hours — keeping the right-hand edge of the window where it is."
+            "state" : "translated",
+            "value" : "Přepíná předvolby přiblížení 6, 12 a 24 hodin, přičemž pravý okraj grafu zůstává na místě."
           }
         },
         "da" : {
@@ -282791,8 +282791,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop adjustment"
+            "state" : "translated",
+            "value" : "Zastavit úpravu"
           }
         },
         "da" : {
@@ -283181,8 +283181,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop override"
+            "state" : "translated",
+            "value" : "Ukončit přepsání"
           }
         },
         "da" : {
@@ -283442,8 +283442,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop preview"
+            "state" : "translated",
+            "value" : "Zastavit ukázku"
           }
         },
         "da" : {
@@ -283573,8 +283573,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop temp target"
+            "state" : "translated",
+            "value" : "Ukončit dočasný cíl"
           }
         },
         "da" : {
@@ -284094,8 +284094,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop Trio Alarm"
+            "state" : "translated",
+            "value" : "Zastavit upozornění Tria"
           }
         },
         "da" : {
@@ -286587,8 +286587,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Suspend In Progress"
+            "state" : "translated",
+            "value" : "Probíhá pozastavení podávání"
           }
         },
         "da" : {
@@ -287505,8 +287505,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Swipe left to end snooze."
+            "state" : "translated",
+            "value" : "Přejetím doleva ukončíš odložení upozornění."
           }
         },
         "da" : {
@@ -288027,8 +288027,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Synth"
+            "state" : "translated",
+            "value" : "Syntezátor"
           }
         },
         "da" : {
@@ -288312,7 +288312,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Défaut du système"
+            "value" : "Défaut du système :"
           }
         },
         "he" : {
@@ -288678,8 +288678,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tap a bolus amount, a carb amount, or both, then slide to confirm. Face ID or Touch ID is always required before a bolus is enacted."
+            "state" : "translated",
+            "value" : "Vyber množství bolusu, sacharidů nebo obojí a potvrď posunutím. Před podáním bolusu je vždy nutné ověření Face ID nebo Touch ID."
           }
         },
         "da" : {
@@ -289483,7 +289483,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toucher le bouton ci-dessous pour ouvrir votre instance Nightscout (Ns) dans le navigateur par défaut de votre iPhone."
+            "value" : "Touchez le bouton ci-dessous pour ouvrir votre instance Nightscout dans le navigateur par défaut de votre iPhone."
           }
         },
         "he" : {
@@ -289588,8 +289588,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tap to add a fingerstick reading."
+            "state" : "translated",
+            "value" : "Klepnutím přidáš hodnotu z glukometru."
           }
         },
         "da" : {
@@ -289743,7 +289743,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toucher pour activer le Bluetooth dans les réglages d'iOS"
+            "value" : "Touchez pour activer le Bluetooth dans les réglages iOS"
           }
         },
         "he" : {
@@ -293565,8 +293565,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The app Garmin Connect must be installed to use Trio.\nGo to the App Store to download it."
+            "state" : "translated",
+            "value" : "Pro používání Tria musí být nainstalovaná aplikace Garmin Connect.\nStáhni ji z App Storu."
           }
         },
         "da" : {
@@ -294086,8 +294086,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The bolus was enacted, but the carbs could not be logged. Please log them manually."
+            "state" : "translated",
+            "value" : "Bolus byl podán, ale sacharidy se nepodařilo zaznamenat. Zaznamenej je ručně."
           }
         },
         "da" : {
@@ -294217,8 +294217,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The carbs could not be logged. Please try again."
+            "state" : "translated",
+            "value" : "Sacharidy se nepodařilo zaznamenat. Zkus to znovu."
           }
         },
         "da" : {
@@ -297750,8 +297750,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "The Night window runs from 'Night Starts' back around to 'Day Starts' — so by default, Night covers %1$@ through %2$@ the next morning."
+            "state" : "translated",
+            "value" : "Noční časové okno trvá od „Začátku noci“ do následujícího „Začátku dne“. Ve výchozím nastavení tedy noc trvá od %1$@ do %2$@ následujícího rána."
           }
         },
         "da" : {
@@ -300626,8 +300626,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "These alarms are silenced because the %@ app handles CGM alerts. To have Trio notify you instead, turn off \"Use CGM App Alerts\" below."
+            "state" : "translated",
+            "value" : "Tato upozornění jsou ztlumená, protože je zajišťuje aplikace %@. Pokud je má zobrazovat Trio, vypni níže „Používat upozornění aplikace CGM“. "
           }
         },
         "da" : {
@@ -300756,8 +300756,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "These alarms are silenced because the CGM app handles them. To have Trio notify you instead, turn off \"Use CGM App Alerts\" below."
+            "state" : "translated",
+            "value" : "Tato upozornění jsou ztlumená, protože je zajišťuje aplikace CGM. Pokud je má zobrazovat Trio, vypni níže „Používat upozornění aplikace CGM“."
           }
         },
         "da" : {
@@ -300886,8 +300886,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "These thresholds drive the chart band colors, statistics in-range buckets, Live Activity colors, and Contact Image colors."
+            "state" : "translated",
+            "value" : "Tyto prahové hodnoty určují barvy pásem grafu, statistiky času v rozmezí, barvy živé aktivity a obrázku kontaktu."
           }
         },
         "da" : {
@@ -301016,8 +301016,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "These two times define the Day and Night windows. Each alarm's Active setting picks one — Day & Night, Day only, or Night only — and only fires when that window is current."
+            "state" : "translated",
+            "value" : "Tyto dva časy určují denní a noční období. U každého alarmu lze v nastavení Aktivní vybrat „Den a noc“, „Pouze den“ nebo „Pouze noc“. Alarm se spustí jen v příslušném období."
           }
         },
         "da" : {
@@ -301147,8 +301147,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "These windows are shared between Glucose Alarms and Device Alarms."
+            "state" : "translated",
+            "value" : "Tato časová okna jsou společná pro upozornění na glykémii a zařízení."
           }
         },
         "da" : {
@@ -305785,8 +305785,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This is the development version of Trio, built from the dev branch.\n\nAny updates on this branch may contain new, lightly tested features, and may be unsafe. If you are not a tester, please do not use this branch, and switch to main."
+            "state" : "translated",
+            "value" : "Toto je vývojová verze aplikace Trio sestavená z větve dev.\n\nAktualizace v této větvi mohou obsahovat nové, pouze částečně otestované funkce, které nemusí být bezpečné. Pokud nejsi tester, tuto větev nepoužívej a přejdi na hlavní větev."
           }
         },
         "da" : {
@@ -309326,8 +309326,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This version of Trio was built from '%@', not the released main branch.\n\nAny updates on this branch may contain new, lightly tested features, and may be unsafe. If you are not a tester, please do not use this branch, and switch to main."
+            "state" : "translated",
+            "value" : "Tato verze aplikace Trio byla sestavena z větve '%@', nikoli z vydané hlavní větve.\n\nAktualizace v této větvi mohou obsahovat nové, pouze částečně otestované funkce, které nemusí být bezpečné. Pokud nejsi tester, tuto větev nepoužívej a přejdi na hlavní větev."
           }
         },
         "da" : {
@@ -310773,8 +310773,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Time in Range"
+            "state" : "translated",
+            "value" : "Čas v cílovém rozmezí"
           }
         },
         "da" : {
@@ -310903,8 +310903,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Time in range distribution chart"
+            "state" : "translated",
+            "value" : "Graf rozložení času v cílovém rozmezí"
           }
         },
         "da" : {
@@ -311692,8 +311692,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "time unknown"
+            "state" : "translated",
+            "value" : "čas není znám"
           }
         },
         "da" : {
@@ -311822,8 +311822,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Time-Sensitive"
+            "state" : "translated",
+            "value" : "Časově citlivé"
           }
         },
         "da" : {
@@ -312107,7 +312107,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Astuce : Réduire cette valeur permet aux ajustements automatiques de rendre les débits basaux plus faibles, l'ISF (facteur de sensibilité à l’insuline) plus élevé et le CR (ratio insuline/glucides) plus élevé."
+            "value" : "Astuce : Réduire cette valeur permet aux ajustements automatiques de rendre les débits basaux plus faibles, l'ISF (facteur de sensibilité à l’insuline) plus élevé et le CR (ratio Insuline/Glucides) plus élevé."
           }
         },
         "he" : {
@@ -312627,7 +312627,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Astuce : Augmenter cette valeur permet des ajustements automatiques avec un basal plus élevé, un ISF (facteur de sensibilité à l’insuline) plus faible, et un CR (ratio insuline/glucides) plus faible."
+            "value" : "Astuce : Augmenter cette valeur permet des ajustements automatiques avec un basal plus élevé, un ISF (facteur de sensibilité à l’insuline) plus faible, et un CR (ratio Insuline/Glucides) plus faible."
           }
         },
         "he" : {
@@ -313382,8 +313382,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "To configure when alarms fire (urgent low / low / high / forecasted low), open Glucose Alarms."
+            "state" : "translated",
+            "value" : "Chceš-li nastavit, kdy se spouštějí upozornění (kriticky nízká, nízká, vysoká nebo předpovězená nízká glykémie), otevři Upozornění na glykémii."
           }
         },
         "da" : {
@@ -314944,8 +314944,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "today"
+            "state" : "translated",
+            "value" : "dnes"
           }
         },
         "da" : {
@@ -315212,8 +315212,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Today's Average"
+            "state" : "translated",
+            "value" : "Dnešní průměr"
           }
         },
         "da" : {
@@ -315343,8 +315343,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Today's Averages"
+            "state" : "translated",
+            "value" : "Dnešní průměry"
           }
         },
         "da" : {
@@ -315474,8 +315474,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Today's Treatments"
+            "state" : "translated",
+            "value" : "Dnešní záznamy léčby"
           }
         },
         "da" : {
@@ -315735,8 +315735,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tone"
+            "state" : "translated",
+            "value" : "Zvuk"
           }
         },
         "da" : {
@@ -316525,8 +316525,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Total daily dose bar chart"
+            "state" : "translated",
+            "value" : "Sloupcový graf celkové denní dávky"
           }
         },
         "da" : {
@@ -317862,8 +317862,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Transparent"
+            "state" : "translated",
+            "value" : "Průhledné"
           }
         },
         "da" : {
@@ -318390,8 +318390,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trill"
+            "state" : "translated",
+            "value" : "Trylek"
           }
         },
         "da" : {
@@ -318650,8 +318650,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio adjusts your insulin automatically."
+            "state" : "translated",
+            "value" : "Trio automaticky upravuje podávání inzulínu."
           }
         },
         "da" : {
@@ -319300,8 +319300,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio checks your glucose every five minutes and changes your insulin for you. You need a working CGM and a connected pump."
+            "state" : "translated",
+            "value" : "Trio kontroluje glykémii každých pět minut a podle ní upravuje podávání inzulínu. Je potřeba funkční CGM a připojená pumpa."
           }
         },
         "da" : {
@@ -319821,8 +319821,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio could not communicate with the pump. Check the pump and try again."
+            "state" : "translated",
+            "value" : "Triu se nepodařilo komunikovat s pumpou. Zkontroluj pumpu a zkus to znovu."
           }
         },
         "da" : {
@@ -320341,8 +320341,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio does not collect any health related data, e.g. glucose readings, insulin rates or doses, meal data, therapy setting values, or similar."
+            "state" : "translated",
+            "value" : "Trio neshromažďuje žádné zdravotní údaje, například naměřenou glykémii, rychlost či dávky podávání inzulínu, údaje o jídle ani nastavení léčby."
           }
         },
         "da" : {
@@ -320991,8 +320991,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio has not run in %lld minutes."
+            "state" : "translated",
+            "value" : "Trio neprovedlo cyklus smyčky už %lld minut."
           }
         },
         "da" : {
@@ -321901,8 +321901,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio is holding sensitivity at 100% and ignoring these settings."
+            "state" : "translated",
+            "value" : "Trio udržuje citlivost na 100 % a tato nastavení ignoruje."
           }
         },
         "da" : {
@@ -322161,8 +322161,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio leaves your basal alone unless your glucose goes low."
+            "state" : "translated",
+            "value" : "Trio ponechává bazál beze změny, pokud glykémie neklesne příliš nízko."
           }
         },
         "da" : {
@@ -322551,8 +322551,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio may lower or stop your basal insulin when it forecasts you are heading low. It will never give extra insulin to bring a high down.\nTrio does not wait for one set glucose number. It watches your forecast and lowers basal early. While this mode is on, Trio acts as if your Max IOB is 0. Your saved setting does not change."
+            "state" : "translated",
+            "value" : "Pokud Trio předpovídá pokles glykémie do nízkých hodnot, může snížit nebo zastavit podávání bazálního inzulínu. Nikdy nepodá další inzulín ke snížení vysoké glykémie.\nTrio nečeká na dosažení jedné pevně stanovené hodnoty glykémie. Sleduje předpověď a snižuje bazál v předstihu. V tomto režimu se chová, jako by maximální IOB bylo 0. Uložené nastavení se nemění."
           }
         },
         "da" : {
@@ -322681,8 +322681,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio may only lower basal insulin. It will not correct highs."
+            "state" : "translated",
+            "value" : "Trio může bazál pouze snížit. Vysokou glykémii nebude korigovat."
           }
         },
         "da" : {
@@ -322811,8 +322811,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio may only lower your basal. It will not correct a high."
+            "state" : "translated",
+            "value" : "Trio může pouze snížit bazál. Vysokou glykémii nebude korigovat."
           }
         },
         "da" : {
@@ -323073,8 +323073,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio Not Looping"
+            "state" : "translated",
+            "value" : "Smyčka Tria nepracuje"
           }
         },
         "da" : {
@@ -323333,8 +323333,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio only shows what it would do. It never changes your insulin."
+            "state" : "translated",
+            "value" : "Trio pouze ukazuje, co by udělalo. Podávání inzulínu nemění."
           }
         },
         "da" : {
@@ -324113,8 +324113,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio steps in only if your glucose goes low."
+            "state" : "translated",
+            "value" : "Trio zasáhne pouze při nízké glykémii."
           }
         },
         "da" : {
@@ -324243,8 +324243,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio still shows what it would do, but it never changes your insulin. Your pump keeps running the basal rates you set, and every dose is your choice. Trio is running in manual mode. It will not stop a low or fix a high for you."
+            "state" : "translated",
+            "value" : "Trio nadále ukazuje, co by provedlo, ale podávání inzulínu nijak neupravuje. Pumpa pokračuje podle tebou nastavených bazálních dávek a o každé dávce rozhoduješ sám. Trio běží v ručním režimu. Samo nezabrání nízké glykémii ani neupraví vysokou."
           }
         },
         "da" : {
@@ -325289,8 +325289,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio worked this out but did not send anything to your pump."
+            "state" : "translated",
+            "value" : "Trio vypočítalo postup, ale pumpě nic neodeslalo."
           }
         },
         "da" : {
@@ -325419,8 +325419,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Trio would give"
+            "state" : "translated",
+            "value" : "Trio by podalo"
           }
         },
         "da" : {
@@ -326200,8 +326200,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Try again."
+            "state" : "translated",
+            "value" : "Zkus to znovu."
           }
         },
         "da" : {
@@ -328167,8 +328167,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to open the app"
+            "state" : "translated",
+            "value" : "Aplikaci nelze otevřít"
           }
         },
         "da" : {
@@ -328297,8 +328297,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unable to render payload."
+            "state" : "translated",
+            "value" : "Obsah nelze zobrazit."
           }
         },
         "da" : {
@@ -328833,8 +328833,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unavailable"
+            "state" : "translated",
+            "value" : "Nedostupné"
           }
         },
         "da" : {
@@ -329231,8 +329231,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "units"
+            "state" : "translated",
+            "value" : "jednotky"
           }
         },
         "da" : {
@@ -329622,8 +329622,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "units per hour"
+            "state" : "translated",
+            "value" : "jednotek za hodinu"
           }
         },
         "da" : {
@@ -329889,8 +329889,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Unknown determination error."
+            "state" : "translated",
+            "value" : "Neznámá chyba při určování dávky."
           }
         },
         "da" : {
@@ -330411,8 +330411,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "up to date"
+            "state" : "translated",
+            "value" : "aktuální"
           }
         },
         "da" : {
@@ -330542,8 +330542,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "update available"
+            "state" : "translated",
+            "value" : "je dostupná aktualizace"
           }
         },
         "da" : {
@@ -332910,8 +332910,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Urgent Low"
+            "state" : "translated",
+            "value" : "Kriticky nízká glykémie"
           }
         },
         "da" : {
@@ -333040,8 +333040,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Urgent Low Glucose"
+            "state" : "translated",
+            "value" : "Kriticky nízká glykémie"
           }
         },
         "da" : {
@@ -333170,8 +333170,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Urgent Low Threshold"
+            "state" : "translated",
+            "value" : "Prahová hodnota kriticky nízké glykémie"
           }
         },
         "da" : {
@@ -333430,8 +333430,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Use \"What's sent\" above to inspect the exact JSON payload before deciding."
+            "state" : "translated",
+            "value" : "Před rozhodnutím si výše v části „Co se odesílá“ prohlédni přesný obsah JSON."
           }
         },
         "da" : {
@@ -333593,7 +333593,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utilise une fonction sigmoïde pour le Facteur de Sensibilité à l’Insuline (ISF) — et pour le ratio insuline/glucides (CR) si activé — à la place de la formule logarithmique par défaut.\nCette option nécessite que le réglage ISF dynamique soit activé dans les réglages.\n\nLe réglage Ajustement modifie la pente de la courbe (Y : ratio dynamique, X : glycémie). Une valeur plus basse ⇒ courbe moins raide ⇒ ajustement moins agressif.\n\nLes réglages « Autosens min. » et « Autosens max. » définissent à la fois les limites minimale et maximale du ratio dynamique ET l’amplitude de ses ajustements.\nSi le facteur d’ajustement (AF) représente la pente de la courbe, alors autosens.min/max représente la hauteur du graphique — l’intervalle Y — où Y = ratio dynamique.\nLa courbe conservera toujours une forme sigmoïde, quel que soit le réglage autosens.min/max, ce qui signifie que ces paramètres ont un impact important sur le ISF dynamique calculé.\n\n⚠️ Veillez à ne pas définir une valeur Autosens.max trop élevée.\nAvec un réglage de ISF approprié dans votre profil, vous ne devriez probablement jamais avoir besoin de dépasser 1,5.\n\nUne limite autosens.max > 1,5 n’est pas recommandée lorsque vous utilisez la fonction sigmoïde."
+            "value" : "Utilise une fonction sigmoïde pour le Facteur de Sensibilité à l’Insuline (ISF) — et pour le ratio Insuline/Glucides (CR) si activé — à la place de la formule logarithmique par défaut.\nCette option nécessite que le réglage ISF dynamique soit activé dans les réglages.\n\nLe réglage Ajustement modifie la pente de la courbe (Y : ratio dynamique, X : glycémie). Une valeur plus basse ⇒ courbe moins raide ⇒ ajustement moins agressif.\n\nLes réglages « Autosens min. » et « Autosens max. » définissent à la fois les limites minimale et maximale du ratio dynamique ET l’amplitude de ses ajustements.\nSi le facteur d’ajustement (AF) représente la pente de la courbe, alors autosens.min/max représente la hauteur du graphique — l’intervalle Y — où Y = ratio dynamique.\nLa courbe conservera toujours une forme sigmoïde, quel que soit le réglage autosens.min/max, ce qui signifie que ces paramètres ont un impact important sur le ISF dynamique calculé.\n\n⚠️ Veillez à ne pas définir une valeur Autosens.max trop élevée.\nAvec un réglage de ISF approprié dans votre profil, vous ne devriez probablement jamais avoir besoin de dépasser 1,5.\n\nUne limite autosens.max > 1,5 n’est pas recommandée lorsque vous utilisez la fonction sigmoïde."
           }
         },
         "he" : {
@@ -333965,8 +333965,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Use CGM App Alerts"
+            "state" : "translated",
+            "value" : "Používat upozornění aplikace CGM"
           }
         },
         "da" : {
@@ -334121,7 +334121,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Personnaliser la durée du pic d’action de l'insuline"
+            "value" : "Personnaliser durée avant pic d’action de l'insuline"
           }
         },
         "he" : {
@@ -334259,7 +334259,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utiliser le Ratio Insuline/Glucides dynamique (Dynamic CR). Le ratio dynamique sera utilisé pour le CR selon les règles suivantes :\n\nLorsque le ratio > 1 : dynCR = (newRatio - 1)  / 2 + 1\n\nLorsque le ratio < 1 : dynCR = CR / dynCR\n\nNe pas utiliser en même temps qu’une fraction d’insuline élevée (> 2)"
+            "value" : "Utiliser le ratio Insuline/Glucides dynamique (Dynamic CR). Le ratio dynamique sera utilisé pour le CR selon les règles suivantes :\n\nLorsque le ratio > 1 : dynCR = (newRatio - 1)  / 2 + 1\n\nLorsque le ratio < 1 : dynCR = CR / dynCR\n\nNe pas utiliser en même temps qu’une fraction d’insuline élevée (> 2)"
           }
         },
         "he" : {
@@ -334899,8 +334899,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Use this to check whether your basal rates hold you steady. Trio makes no changes unless your glucose goes low. Then it stops your basal until you come back up.\nTrio also stops adjusting for sensitivity, so you see your own settings at work. Turning this on cancels any temp basal Trio set. Use it for short, planned times."
+            "state" : "translated",
+            "value" : "Tento režim slouží k ověření, zda nastavené bazální dávky udržují glykémii stabilní. Trio nic neupravuje, pokud glykémie neklesne do nízkých hodnot. Pak zastaví bazální podávání, dokud glykémie znovu nestoupne.\nTrio také přestane provádět úpravy podle citlivosti, takže můžeš sledovat účinek vlastních nastavení. Zapnutí režimu zruší dočasný bazál nastavený Triem. Používej ho jen po krátkou, předem plánovanou dobu."
           }
         },
         "da" : {
@@ -335054,7 +335054,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utilisez vos identifiants Tidepool pour vous connecter. Si vous n'avez pas de compte Tidepool, vous pouvez en créer un depuis la page de connexion.\n\nUne fois connecté, Trio transfère vers Tidepool vos données de glucose, vos saisies de glucides, vos doses d'insuline (bolus et basales), les réglages de votre pompe et vos réglages de thérapie.\n\nLes réglages de thérapie comprennent le profil basal, les ratios insuline/glucides, les sensibilités à l'insuline et les cibles de glucose."
+            "value" : "Utilisez vos identifiants Tidepool pour vous connecter. Si vous n'avez pas de compte Tidepool, vous pouvez en créer un depuis la page de connexion.\n\nUne fois connecté, Trio transfère vers Tidepool vos données de glucose, vos saisies de glucides, vos doses d'insuline (bolus et basales), les réglages de votre pompe et vos réglages de thérapie.\n\nLes réglages de thérapie comprennent le profil basal, les ratios Insuline/Glucides, les sensibilités à l'insuline et les cibles de glucose."
           }
         },
         "he" : {
@@ -336255,7 +336255,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valide pour le pied de page"
+            "value" : "Valide pour le footer"
           }
         },
         "he" : {
@@ -336515,7 +336515,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valeur : %lf"
+            "value" : "valeur : %lf"
           }
         },
         "he" : {
@@ -337533,8 +337533,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "View Statistics"
+            "state" : "translated",
+            "value" : "Zobrazit statistiky"
           }
         },
         "da" : {
@@ -341341,8 +341341,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "What is sent"
+            "state" : "translated",
+            "value" : "Co se odesílá"
           }
         },
         "da" : {
@@ -341601,8 +341601,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "What stays on your device"
+            "state" : "translated",
+            "value" : "Co zůstává v zařízení"
           }
         },
         "da" : {
@@ -341862,8 +341862,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "What's Changed At A Glance"
+            "state" : "translated",
+            "value" : "Přehled změn"
           }
         },
         "da" : {
@@ -341993,8 +341993,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "What's New?"
+            "state" : "translated",
+            "value" : "Co je nového?"
           }
         },
         "da" : {
@@ -342253,8 +342253,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "What's sent"
+            "state" : "translated",
+            "value" : "Co se odesílá"
           }
         },
         "da" : {
@@ -342774,8 +342774,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "When enabled, long-pressing the + button on the home screen opens a Quick-Pick Treatments sheet. It suggests up to three bolus amounts and, if you have carb history, up to three carb amounts based on what you typically enter at this time of day, weighted by recency and day type (weekday vs. weekend)."
+            "state" : "translated",
+            "value" : "Po zapnutí se dlouhým podržením tlačítka + na úvodní obrazovce otevře rychlý výběr záznamů. Nabídne až tři množství bolusu a při dostupné historii sacharidů také až tři množství sacharidů. Návrhy vycházejí z obvyklých záznamů v tuto denní dobu a zohledňují jejich stáří i to, zda jde o pracovní den, nebo víkend."
           }
         },
         "da" : {
@@ -343294,8 +343294,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "When enabled, the live activity widget on the lock screen will show glucose forecasts. The visual representation will be the same as in the Main view. To change between Cone and Lines, change the setting under Features - User Interface - Forecast Display Type."
+            "state" : "translated",
+            "value" : "Po zapnutí bude widget živé aktivity na zamčené obrazovce zobrazovat předpověď glykémie stejně jako hlavní obrazovka. Mezi kuželem a čarami lze přepnout v nabídce Funkce – Uživatelské rozhraní – Typ zobrazení předpovědi."
           }
         },
         "da" : {
@@ -344074,8 +344074,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "When telemetry is disabled, Trio still sends a minimal request every 24 hours so developers can track the number of active users per version. It carries only the app version, a randomly-generated install UUID that cannot be traced back to you, what triggered the request, and the type of any prior telemetry send error."
+            "state" : "translated",
+            "value" : "I při vypnuté telemetrii Trio každých 24 hodin odesílá minimální požadavek, aby vývojáři mohli sledovat počet aktivních uživatelů jednotlivých verzí. Obsahuje pouze verzi aplikace, náhodně vygenerovaný identifikátor instalace UUID, který nelze přiřadit ke konkrétní osobě, důvod odeslání a typ případné předchozí chyby při odesílání telemetrie."
           }
         },
         "da" : {
@@ -345167,7 +345167,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ce qui se trouve en dessous de votre seuil ("
+            "value" : "ce qui est en dessous de votre seuil ("
           }
         },
         "he" : {
@@ -346327,8 +346327,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Window Boundaries"
+            "state" : "translated",
+            "value" : "Hranice časových oken"
           }
         },
         "da" : {
@@ -348708,7 +348708,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vos réglages d’algorithme (anciennement appelés \"réglages OpenAPS\") sont réinitialisés à leurs valeurs par défaut."
+            "value" : "Vos réglages d’algorithme (anciennement appelés « réglages OpenAPS ») sont réinitialisés à leurs valeurs par défaut."
           }
         },
         "he" : {
@@ -349073,8 +349073,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your CGM app handles alerts (Dexcom G6 / One, G7 / One+, or xDrip4iOS). Turn off to let Trio alert you."
+            "state" : "translated",
+            "value" : "Upozornění zajišťuje aplikace CGM (Dexcom G6 / One, G7 / One+ nebo xDrip4iOS). Vypnutím je převezme Trio."
           }
         },
         "da" : {
@@ -349098,7 +349098,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre app CGM gère les alertes (Dexcom G6 / One, G7 / One+ ou xDrip4iOS). Désactivez pour que Trio vous alerte aussi."
+            "value" : "Votre app CGM gère les alertes (Dexcom G6 / One, G7 / One+ ou xDrip4iOS). Désactivez pour laisser Trio vous alerter."
           }
         },
         "he" : {
@@ -349203,8 +349203,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your CGM has no companion app, so Trio handles alarms."
+            "state" : "translated",
+            "value" : "CGM nemá doprovodnou aplikaci, takže upozornění zajišťuje Trio."
           }
         },
         "da" : {
@@ -349471,8 +349471,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your glucose may go below %2$@ in %1$d min."
+            "state" : "translated",
+            "value" : "Glykémie může za %1$d min klesnout pod %2$@."
           }
         },
         "da" : {
@@ -350122,8 +350122,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Your most-used amounts at similar times on similar days. Tap a bolus, a carb amount, or both."
+            "state" : "translated",
+            "value" : "Nejpoužívanější množství v podobnou dobu a podobné dny. Klepni na bolus, sacharidy nebo obojí."
           }
         },
         "da" : {
@@ -350147,7 +350147,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vos quantités les plus utilisées à des heures et des jours similaires. Touchez un bolus, une quantité de glucides , ou les deux."
+            "value" : "Vos quantités les plus utilisées à des heures et des jours similaires. Touchez un bolus, une quantité de glucides, ou les deux."
           }
         },
         "he" : {
@@ -350917,8 +350917,8 @@
         },
         "cs" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Zooms continuously, between one hour and a full day on screen."
+            "state" : "translated",
+            "value" : "Plynule mění přiblížení grafu od jedné hodiny až po celý den."
           }
         },
         "da" : {
