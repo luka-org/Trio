@@ -497,8 +497,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "\nInvalid Nightcsout Basal Settings. \n\nImport aborted. Please check your Nightscout Profile Basal Settings!"
+            "state" : "translated",
+            "value" : "\nSetări invalide ale bazalei din Nightscout. \n\nImportul a fost abandonat. Vă rugăm să verificați Setările bazalei profilului Nightscout!"
           }
         },
         "ru" : {
@@ -1965,7 +1965,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : " %1$@ · GMI %2$@"
           }
         },
@@ -2095,8 +2095,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " Allow Trio to send you Notifications. These may include alerts, sounds, and icon badges."
+            "state" : "translated",
+            "value" : " Permite Trio să îți trimită notificări. Acestea pot include alerte, sunete și embleme de pictogramă."
           }
         },
         "ru" : {
@@ -3291,8 +3291,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " of "
+            "state" : "translated",
+            "value" : " din "
           }
         },
         "ru" : {
@@ -3421,8 +3421,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " of usage data and is not yet configurable."
+            "state" : "translated",
+            "value" : " din datele de utilizare și încă nu sunt configurabile."
           }
         },
         "ru" : {
@@ -3552,7 +3552,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : " SMB"
           }
         },
@@ -3690,8 +3690,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " SMBs are disabled either by schedule or during the entire duration."
+            "state" : "translated",
+            "value" : " SMB sunt dezactivate fie prin program, fie pe întreaga durată."
           }
         },
         "ru" : {
@@ -3821,7 +3821,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : " U"
           }
         },
@@ -3951,8 +3951,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " U) - Current IOB ("
+            "state" : "translated",
+            "value" : " U) - IOB curent ("
           }
         },
         "ru" : {
@@ -4081,7 +4081,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : " U) = "
           }
         },
@@ -4212,8 +4212,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " U/hr"
+            "state" : "translated",
+            "value" : " U/oră"
           }
         },
         "ru" : {
@@ -4350,8 +4350,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " without bolusing"
+            "state" : "translated",
+            "value" : " fără bolusare"
           }
         },
         "ru" : {
@@ -4487,8 +4487,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " Your setting: "
+            "state" : "translated",
+            "value" : " Setarea dumneavoastră: "
           }
         },
         "ru" : {
@@ -4617,7 +4617,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "-"
           }
         },
@@ -4747,7 +4747,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "--"
           }
         },
@@ -4877,7 +4877,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "---"
           }
         },
@@ -5007,7 +5007,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "-1"
           }
         },
@@ -5137,7 +5137,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "– –"
           }
         },
@@ -5267,7 +5267,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : ", %lld%%"
           }
         },
@@ -5405,8 +5405,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : ". Changing: "
+            "state" : "translated",
+            "value" : ". Schimbare: "
           }
         },
         "ru" : {
@@ -5543,8 +5543,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : ". Climbing: "
+            "state" : "translated",
+            "value" : ". Creștere: "
           }
         },
         "ru" : {
@@ -5681,8 +5681,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : ". Falling: "
+            "state" : "translated",
+            "value" : ". Cădere: "
           }
         },
         "ru" : {
@@ -5819,8 +5819,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "... When Blood Glucose Is Over (mg/dl):"
+            "state" : "translated",
+            "value" : "... Când glicemia este peste (mg/dl):"
           }
         },
         "ru" : {
@@ -5949,7 +5949,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "·"
           }
         },
@@ -6079,8 +6079,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "“Trio” Would Like to Use Bluetooth"
+            "state" : "translated",
+            "value" : "\"Trio\" dorește să utilizeze Bluetooth"
           }
         },
         "ru" : {
@@ -6209,7 +6209,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "("
           }
         },
@@ -6339,8 +6339,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "(50% current basal rate)"
+            "state" : "translated",
+            "value" : "(50% rata bazală curentă)"
           }
         },
         "ru" : {
@@ -6376,7 +6376,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "(目前基本费率的50%)"
+            "value" : "(当前基础率的50%)"
           }
         },
         "zh-Hant" : {
@@ -6997,8 +6997,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "(Optional)"
+            "state" : "translated",
+            "value" : "(Opțional)"
           }
         },
         "ru" : {
@@ -7257,7 +7257,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : ")"
           }
         },
@@ -7395,7 +7395,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "[ -1 ]"
           }
         },
@@ -7533,7 +7533,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "[ +1 ]"
           }
         },
@@ -7663,7 +7663,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "/"
           }
         },
@@ -7794,7 +7794,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%"
           }
         },
@@ -7924,7 +7924,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%.0f%%"
           }
         },
@@ -8055,7 +8055,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@"
           }
         },
@@ -8185,7 +8185,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ "
           }
         },
@@ -8321,7 +8321,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@  %2$@"
           }
         },
@@ -8457,7 +8457,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@ - 0.5 × (%2$@ - %3$@) = %4$@"
           }
         },
@@ -8593,7 +8593,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@ (%2$@-%3$@)"
           }
         },
@@ -8729,8 +8729,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ (mode is using %2$@)"
+            "state" : "translated",
+            "value" : "%1$@ (modul folosește %2$@)"
           }
         },
         "ru" : {
@@ -8865,7 +8865,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@ %2$@"
           }
         },
@@ -9001,7 +9001,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%1$@ %2$@ / %3$@ %4$@/%5$@ = %6$@ %7$@"
           }
         },
@@ -9131,7 +9131,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ %%"
           }
         },
@@ -9268,8 +9268,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ and %2$lld g fat"
+            "state" : "translated",
+            "value" : "%1$@ și %2$lld g grăsime"
           }
         },
         "ru" : {
@@ -9405,8 +9405,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ and %2$lld g protein"
+            "state" : "translated",
+            "value" : "%1$@ și %2$lld g proteină"
           }
         },
         "ru" : {
@@ -9541,8 +9541,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ at %2$@"
+            "state" : "translated",
+            "value" : "%1$@ la %2$@"
           }
         },
         "ru" : {
@@ -9672,8 +9672,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ carbs"
+            "state" : "translated",
+            "value" : "%@ carbohidrați"
           }
         },
         "ru" : {
@@ -9803,8 +9803,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ Device Alerts"
+            "state" : "translated",
+            "value" : "Alerte dispozitiv %@"
           }
         },
         "ru" : {
@@ -9934,8 +9934,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ fat"
+            "state" : "translated",
+            "value" : "%@ grăsime"
           }
         },
         "ru" : {
@@ -10064,7 +10064,7 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "%@ g"
           }
         },
@@ -10195,8 +10195,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%@ insulin"
+            "state" : "translated",
+            "value" : "%@ insulină"
           }
         },
         "ru" : {
@@ -10331,8 +10331,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ is on. %2$@"
+            "state" : "translated",
+            "value" : "%1$@ este pornit. %2$@"
           }
         },
         "ru" : {
@@ -15703,8 +15703,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "• COB: Carbohydrates On Board"
+            "state" : "translated",
+            "value" : "• COB: Carbohidrați la bord"
           }
         },
         "ru" : {
@@ -15833,8 +15833,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "• COB: Carbs on Board."
+            "state" : "translated",
+            "value" : "• COB: Carbohidrați la bord."
           }
         },
         "ru" : {
@@ -15963,8 +15963,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "• Color Mode: Color keeps the glucose number's dynamic color; Monochrome shows it in white. The ring and arrow stay colored either way."
+            "state" : "translated",
+            "value" : "• Modul de culoare: Culoarea păstrează culoarea dinamică a valorii de glicemie; Monocromul o arată în alb. Inelul și săgeata rămân colorate în oricare caz."
           }
         },
         "ru" : {
@@ -16093,8 +16093,8 @@
         },
         "ro" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "• Current Glucose Reading"
+            "state" : "translated",
+            "value" : "• Citirea curentă a glicemiei"
           }
         },
         "ru" : {
@@ -23378,8 +23378,8 @@
         },
         "pt-PT" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "1 U and over"
+            "state" : "translated",
+            "value" : "1 U ou mais"
           }
         },
         "ro" : {
@@ -28925,7 +28925,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "“脱离”缩写。实际葡萄糖变化多大程度上偏离了家庭收入指数的变化。"
+            "value" : "“偏差”缩写。实际血糖变化多大程度上偏离了家庭收入指数的变化。"
           }
         },
         "zh-Hant" : {
@@ -55561,7 +55561,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autosens会改变胰岛素敏感性系数(ISF)、基本率和目标血糖。 它不考虑碳水化合物，但是会根据您血糖数据的图谱来调胰岛素效果。"
+            "value" : "Autosens会改变胰岛素敏感性系数(ISF)、基础率和目标血糖。 它不考虑碳水化合物，但是会根据您血糖数据的图谱来调胰岛素效果。"
           }
         },
         "zh-Hant" : {
@@ -55607,7 +55607,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ratio Autosens"
+            "value" : "Autosens Ratio"
           }
         },
         "he" : {
@@ -101413,7 +101413,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "默认：120克碳水"
+            "value" : "默认值：120克碳水"
           }
         },
         "zh-Hant" : {
@@ -101673,7 +101673,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "默认：130%"
+            "value" : "默认值：130%"
           }
         },
         "zh-Hant" : {
@@ -102063,7 +102063,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "默认：白天开始 %1$@，夜间开始 %2$@。"
+            "value" : "默认值：白天开始 %1$@，夜间开始 %2$@。"
           }
         },
         "zh-Hant" : {
@@ -102193,7 +102193,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "默认：已关闭"
+            "value" : "默认值：已关闭"
           }
         },
         "zh-Hant" : {
@@ -102843,7 +102843,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "默认：简单的"
+            "value" : "默认值：简单的"
           }
         },
         "zh-Hant" : {
@@ -104553,7 +104553,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valeur par défaut : 30. Il s'agit du nombre maximal de minutes de basal pouvant être administrée en un seul Super Micro Bolus (SMB) lorsque des glucides actifs (COB) ne sont pas encore couverts. Cette valeur permet de rendre les SMB plus ou moins agressifs selon vos préférences. Il est recommandé de commencer à 30, conformément à la valeur par défaut et, si vous choisissez de l'augmenter par la suite, de le faire par paliers de 15 minutes maximum, en surveillant attentivement les effets des modifications. Il est déconseillé de dépasser 90 minutes, car cela pourrait compromettre la capacité de l'algorithme à suspendre temporairement l'administration en toute sécurité. Il est également recommandé d'utiliser Pushover (ou tout autre système de notification) quand on utilise une valeur supérieure à celle par défaut, pour recevoir une alerte si la mesure de glucose risque de sortir de la page cible (prévision de glucose bas ou élevé)."
+            "value" : "Valeur par défaut : 30. Il s'agit du nombre maximal de minutes de basal pouvant être administrées en un seul Super Micro Bolus (SMB) lorsque des glucides actifs (COB) ne sont pas encore couverts. Cette valeur permet de rendre les SMB plus ou moins agressifs selon vos préférences. Il est recommandé de commencer à 30, conformément à la valeur par défaut et, si vous choisissez de l'augmenter par la suite, de le faire par paliers de 15 minutes maximum, en surveillant attentivement les effets des modifications. Il est déconseillé de dépasser 90 minutes, car cela pourrait compromettre la capacité de l'algorithme à suspendre temporairement l'administration en toute sécurité. Il est également recommandé d'utiliser Pushover (ou tout autre système de notification) quand on utilise une valeur supérieure à celle par défaut, pour recevoir une alerte si la mesure de glucose risque de sortir de la page cible (prévision de glucose bas ou élevé)."
           }
         },
         "he" : {
@@ -109300,7 +109300,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "开发版"
+            "value" : "Dev"
           }
         },
         "zh-Hant" : {
@@ -114623,7 +114623,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在状态面板中显示标准偏差 (SD) 而不是变化系数 (CV)"
+            "value" : "在状态面板中显示标准差 (SD) 而不是变异系数 (CV)"
           }
         },
         "zh-Hant" : {
@@ -119510,7 +119510,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dynamique ISF/CR"
+            "value" : "Dynamic ISF/CR"
           }
         },
         "he" : {
@@ -126456,7 +126456,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "开启 Adjust Basal（基础率自适应调整）后，会替换标准 Autosens（动态 Isf）计算逻辑，改用它自身的一套 Autosens 倍率计算方式："
+            "value" : "开启 Adjust Basal（基础率自适应调整）后，会替换标准 Autosens（动态 ISF）计算逻辑，改用它自身的一套 Autosens 倍率计算方式："
           }
         },
         "zh-Hant" : {
@@ -126846,7 +126846,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "开启该功能后，Trio 会在每一轮闭环周期重新计算胰岛素敏感度系数（Isf）；计算会参考当前血糖、加权每日胰岛素总剂量、设定的调节系数以及其他若干数据点。以此实现更精准的实时胰岛素响应适配。"
+            "value" : "开启该功能后，Trio 会在每一轮闭环周期重新计算胰岛素敏感度系数（ISF）；计算会参考当前血糖、加权每日胰岛素总剂量、设定的调节系数以及其他若干数据点。以此实现更精准的实时胰岛素响应适配。"
           }
         },
         "zh-Hant" : {
@@ -126976,7 +126976,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "启用该功能后，Trio 会在每一轮 Loop 循环周期，动态重新计算胰岛素敏感系数 Isf。Trio 提供两套动态计算公式："
+            "value" : "启用该功能后，Trio 会在每一轮闭环循环周期，动态重新计算胰岛素敏感系数 ISF。Trio 提供两套动态计算公式："
           }
         },
         "zh-Hant" : {
@@ -135500,7 +135500,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Réglages d'exportation"
+            "value" : "Exporter les réglages"
           }
         },
         "he" : {
@@ -147234,7 +147234,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Par ailleurs, vous pouvez ajuster ce changement de sensibilité indépendamment de la « Cible à demi-basal » spécifiée dans « ⚙️ Réglages > Algorithme > Comportement cible », en définissant volontairement un pourcentage d’insuline personnalisé (\"Custom\") pour une cible temporaire."
+            "value" : "Par ailleurs, vous pouvez ajuster ce changement de sensibilité indépendamment de la « Cible à demi-basal » spécifiée dans « Réglages > Algorithme > Comportement cible », en fixant délibérément un pourcentage d’insuline personnalisé (« Custom ») pour une cible temporaire."
           }
         },
         "he" : {
@@ -152046,7 +152046,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "血糖偏离算法"
+            "value" : "血糖偏差算法"
           }
         },
         "zh-Hant" : {
@@ -154325,7 +154325,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cibles de glucose, profil basal, ratios Insuline/Glucides et sensibilités à l’insuline adaptés à vos besoins."
+            "value" : "La cible de glucose, les débits basaux, les ratios Insuline/Glucides et la sensibilité à l’insuline sont adaptés à vos besoins déclarés."
           }
         },
         "he" : {
@@ -177117,7 +177117,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "它是一个安全限制，确保任何暂时的基本费率都不超过安全水平。"
+            "value" : "它是一个安全限制，确保任何暂时的基础率都不超过安全水平。"
           }
         },
         "zh-Hant" : {
@@ -203314,7 +203314,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "最小"
+            "value" : "分钟"
           }
         },
         "zh-Hant" : {
@@ -217581,7 +217581,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注：当CGM提供的读数不一致时，它被视为噪点。"
+            "value" : "注意：当CGM提供的读数不一致时，它被视为噪点。"
           }
         },
         "zh-Hant" : {
@@ -220894,7 +220894,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les notifications et les autorisations Bluetooth sont gérées selon vos préférences."
+            "value" : "Les notifications et les autorisations Bluetooth sont configurées comme vous le souhaitez."
           }
         },
         "he" : {
@@ -230469,7 +230469,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "覆盖您的基本、 ISF、 CR和目标配置文件"
+            "value" : "覆盖您的基础率、 ISF、 CR和目标配置文件"
           }
         },
         "zh-Hant" : {
@@ -256559,7 +256559,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définition de limites de sécurité pour l’administration d’insuline et l’ajout de glucides, afin d’aider Trio à garantir votre sécurité."
+            "value" : "Les limites de sécurité pour l’administration d’insuline et l’ajout de glucides sont définies, pour aider Trio à veiller à votre sécurité."
           }
         },
         "he" : {
@@ -270985,7 +270985,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Affiche les débits basaux temporaires actuels ou passés, définis soit par l’algorithme (Oref), soit manuellement."
+            "value" : "Affiche les débits basaux temporaires actuels ou passés, définis par l’algorithme oref ou manuellement."
           }
         },
         "he" : {
@@ -274529,7 +274529,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les SMB (Super Micro Bolus) sont une fonctionnalité de l’algorithme oref qui administre de petits bolus fréquents à la place des débits basaux temporaires, pour un contrôle plus rapide du glucose."
+            "value" : "Le SMB (Super Micro Bolus) est une fonctionnalité de l’algorithme oref qui administre de petits bolus fréquents à la place de débits basaux temporaires, pour un contrôle du glucose plus rapide."
           }
         },
         "he" : {
@@ -276107,7 +276107,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lissage des données"
+            "value" : "Smoothing"
           }
         },
         "he" : {
@@ -294723,7 +294723,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "默认值是 %1$@ %2$@/5分钟。 这会影响到当低温热吸入器在低温热度偏差中不可见的情况下COB衰减的速度。 %3$@ %4$@/5分钟的默认值对应 %5$@ %6$@/g的最小碳吸收率为24 克/小时。"
+            "value" : "默认值是 %1$@ %2$@/5分钟。 这会影响在碳水化合物吸收在血糖变化中不可见的情况下，COB的衰减熟读。 %3$@ %4$@/5分钟的默认值对应 %5$@ %6$@/g的最小碳吸收率为24 克/小时。"
           }
         },
         "zh-Hant" : {
@@ -296689,7 +296689,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "基于近期血糖偏离的衰减速率，假设该偏离量以原有速率逐步归零，推算得出的4小时预测血糖值。"
+            "value" : "基于近期血糖偏差的衰减速率，假设该偏离量以原有速率逐步归零，推算得出的4小时预测血糖值。"
           }
         },
         "zh-Hant" : {
@@ -297599,7 +297599,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "偏离中心值的最大幅度。数值越大，波动幅度越剧烈。"
+            "value" : "偏差中心值的最大幅度。数值越大，波动幅度越剧烈。"
           }
         },
         "zh-Hant" : {
@@ -301302,7 +301302,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cette limite minimale de 15 % est une mesure de sécurité issue d'oref (conception de référence d'OpenAPS) et d'AndroidAPS. Elle permet d'éviter que la délivrance d'insuline ne descende à des niveaux dangereux."
+            "value" : "Cette limite minimale de 15 % est une mesure de sécurité issue d'oref (OpenAPS Reference Design) et d'AndroidAPS. Elle permet d'éviter que la délivrance d'insuline ne descende à des niveaux dangereux."
           }
         },
         "he" : {
@@ -305219,7 +305219,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "该参数为每 5 分钟的默认碳水升糖影响值，默认期望值为 8 mg/dL/5min。当血糖偏移看不到碳水吸收证据时，该参数控制 COB 的衰减速度。在 CSF（碳水因子）为 4 mg/dL/g 的条件下，默认值 8 mg/dL/5min 等价于每小时最低 24 克的碳水吸收速率。"
+            "value" : "该参数为每 5 分钟的默认碳水升糖影响值，默认期望值为 8 mg/dL/5min。当血糖偏差看不到碳水吸收证据时，该参数控制 COB 的衰减速度。在 CSF（碳水因子）为 4 mg/dL/g 的条件下，默认值 8 mg/dL/5min 等价于每小时最低 24 克的碳水吸收速率。"
           }
         },
         "zh-Hant" : {
@@ -305625,7 +305625,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "这是 OpenAPS 的另一项重要安全限制。默认值为 4，同样一般不建议修改。该参数含义：OpenAPS 不允许设置超过**4 倍**的临时基础率；倍数基准取泵中当前时段的每小时基础率；如果开启 Autotune，则采用 Autotune 输出的当前时段基础率。"
+            "value" : "这是 OpenAPS 的另一项重要安全限制。默认值为 4，同样一般不建议修改。该参数含义：OpenAPS 不允许设置超过4 倍的临时基础率；倍数基准取泵中当前时段的每小时基础率；如果开启 Autotune，则采用 Autotune 输出的当前时段基础率。"
           }
         },
         "zh-Hant" : {
@@ -307654,7 +307654,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Les paramètres de la pompe n’ont pas été configuré avec un débit basal maximal, car il a été ajouté avant que la fonctionnalité de débit basal temporaire manuel n’existe. Veuillez aller dans Réglages > Thérapie > Unités et limites pour définir un nouveau Basal Maximal."
+            "value" : "Cette pompe n’a pas été configurée avec un débit basal maximal, car elle a été ajoutée avant l’arrivée de la fonctionnalité de débit basal temporaire manuel. Veuillez aller dans « Réglages > Thérapie > Unités et limites » pour définir un nouveau « Débit basal maximal »."
           }
         },
         "he" : {
@@ -313797,7 +313797,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pour désactiver le lissage, allez dans « Réglages > Appareils > Capteur de glucose en continu > Lisser les valeurs de glucose » et désactivez ce réglage."
+            "value" : "Pour désactiver le lissage, allez dans « Réglages > Appareils > Capteur de glucose en continu (CGM) > Lisser les valeurs de glucose » et désactivez ce réglage."
           }
         },
         "he" : {
@@ -313927,7 +313927,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pour activer ou configurer l’application de la méthode de Warsaw dans Trio, allez dans « ⚙️ Réglages > Fonctionnalités > Réglages des repas > Lipides et Protéines »."
+            "value" : "Pour activer ou configurer l’application de la méthode de Warsaw dans Trio, allez dans « Réglages > Fonctionnalités > Réglages des repas > Lipides et Protéines »."
           }
         },
         "he" : {
@@ -314317,7 +314317,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pour modifier l’affichage de la prévision, allez dans \"⚙️ Réglages > Fonctionnalités > Interface utilisateur > Type d’affichage des prévisions \"."
+            "value" : "Pour modifier l’affichage de la prévision, allez dans « Réglages > Fonctionnalités > Interface utilisateur > Type d’affichage des prévisions »."
           }
         },
         "he" : {
@@ -314708,7 +314708,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pour consulter ou modifier vos débits basaux programmés, allez dans \"\"⚙️ Réglages > Thérapie > Profil basal\"."
+            "value" : "Pour consulter ou modifier vos débits basaux programmés, allez dans « Réglages > Thérapie > Profil basal »."
           }
         },
         "he" : {
@@ -321666,7 +321666,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trio utilise actuellement les données et valeurs suivantes, calculées par l’algorithme \"Oref\" :"
+            "value" : "Trio utilise actuellement les données et valeurs suivantes, calculées par l’algorithme oref :"
           }
         },
         "he" : {
@@ -325574,7 +325574,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fonctionnalités de l’algorithme Trio ajustées selon vos réglages et besoins."
+            "value" : "Les fonctionnalités algorithmiques de Trio sont adaptées à vos préférences et à vos besoins."
           }
         },
         "he" : {
@@ -344631,7 +344631,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lorsque cette fonctionnalité est activée, définir une cible temporaire en dessous de %1$@ %2$@ augmentera le ratio Autosens utilisé pour l’ajustement de l'ISF et du débit basal, entraînant une administration d’insuline plus importante. Cette augmentation est proportionnelle à la cible temporaire définie : plus la cible temporaire est basse, plus le ratio Autosens est élevé.\n\nCette fonctionnalité nécessite que le réglage de la sensibilité automatique dans : « ⚙️Réglages > Algorithme > Autosens > Autosens max. » ait une valeur supérieure à 100 %% pour fonctionner."
+            "value" : "Lorsque cette fonctionnalité est activée, définir une cible temporaire en dessous de %1$@ %2$@ augmentera le ratio Autosens utilisé pour l’ajustement de l'ISF et du débit basal, entraînant une administration d’insuline plus importante. Cette augmentation est proportionnelle à la cible temporaire définie : plus la cible temporaire est basse, plus le ratio Autosens est élevé.\n\nCette fonctionnalité nécessite que le réglage de la sensibilité automatique dans « Réglages > Algorithme > Autosens > Autosens max. » ait une valeur supérieure à 100 %% pour fonctionner."
           }
         },
         "he" : {
@@ -350505,7 +350505,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的个人资料基本绝缘将以覆盖百分比进行调整，您的资料ISF和CR 将以百分比反向调整。"
+            "value" : "您的个人资料基础胰岛素将以覆盖百分比进行调整，您的资料ISF和CR 将以百分比反向调整。"
           }
         },
         "zh-Hant" : {
@@ -350636,7 +350636,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的个人资料基本绝缘将以覆盖百分比进行调整，您的资料ISF和CR 将以百分比反向调整。\n\n如果您切换替代，每个配置文件设置都会返回正常状态。"
+            "value" : "您的个人资料基础胰岛素将以覆盖百分比进行调整，您的资料ISF和CR 将以百分比反向调整。\n\n如果您切换替代，每个配置文件设置都会返回正常状态。"
           }
         },
         "zh-Hant" : {
@@ -351202,7 +351202,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ZT (Zéro-Temps)"
+            "value" : "ZT (basal temporaire à zéro)"
           }
         },
         "he" : {
